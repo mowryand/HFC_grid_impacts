@@ -10,8 +10,6 @@ Uranium, coal, and biomass prices are set at constant levels that reflect averag
 
 Wind and solar availability are based on zonal, hourly data for 2013 from the National Solar Radiation Database (Github 2020). https://nsrdb.nrel.gov/ 
 
-Natural gas prices follow Henry Hub daily settlements from 2013 (Github 2020). https://www.eia.gov/dnav/ng/ng_pri_sum_dcu_nus_m.htm 
-
 we extrapolated available load forecasts from ERCOT (Github 2020) 2020 Long-Term Load Forecast Reports. http://www.ercot.com/gridinfo/load/forecast 
 
 There are 48 such Supercharger stations, representing about 425 individual fast-chargers and 65 MW of total rated power capacity (Github 2020) Information sourced from www.supercharge.info
