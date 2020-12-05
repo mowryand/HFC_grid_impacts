@@ -4,6 +4,10 @@ We assemble generation dispatch characteristics, namely variable operation costs
 
 We construct hourly load schedules at each of the load buses by distributing historical weather zone-level hourly load data from 2017 pro-rata according to each load bus’ power rating in the CRR network representation (Github 2020) _____ (load data)
 
+Daily natural gas prices at Henry Hub from 2017 were obtained from the US Energy Information Agency (Github 2020). 
+
+Uranium, coal, and biomass prices are set at constant levels that reflect average levels in 2017 and that appropriately locate the respective generation in the total ERCOT supply stack (Github 2020).
+
 Wind and solar availability are based on zonal, hourly data for 2013 from the National Solar Radiation Database (Github 2020). https://nsrdb.nrel.gov/ 
 
 Natural gas prices follow Henry Hub daily settlements from 2013 (Github 2020). https://www.eia.gov/dnav/ng/ng_pri_sum_dcu_nus_m.htm 
