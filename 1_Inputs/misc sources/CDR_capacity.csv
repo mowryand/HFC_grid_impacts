@@ -1,0 +1,13 @@
+type_original,type_new,2020,2019
+Biomass,Other Fuel,169.2,201.7
+Coal,Coal,14225,14650
+Gas,Natural Gas,51846.14961,52637.9
+Nuclear,Uranium,4973.2,4960
+Other,Other Fuel,1250,389
+Hydro,Water,552.6,555.1
+Wind,Wind,0,22309.5
+Wind-C,Wind,4033.1,3222.5
+Wind-P,Wind,4661.6,0
+Wind-O,Wind,19678.1,0
+Solar,Solar,19678.1,2162.8
+Storage,Other Fuel,3738.29,0
