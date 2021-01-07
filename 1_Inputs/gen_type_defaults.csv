@@ -1,0 +1,11 @@
+type,tech,mw_min,fuel,fuel_cost
+Coal,Steam Turbine,5,coal,
+Natural Gas,Combined Cycle,20,gas,
+Natural Gas,Combustion Turbine,40,gas,
+Natural Gas,Internal Combustion,50,gas,
+Natural Gas,Steam Turbine,15,gas,
+Other Fuel,Steam Turbine,15,bio,
+Solar,Solar,200,,
+Uranium,Nuclear,15,u,
+Water,Hydro,150,,
+Wind,Wind,50,,

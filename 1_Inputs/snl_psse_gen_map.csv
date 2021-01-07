@@ -1,0 +1,747 @@
+psse_node,psse_name,snl_name,unit,type,tech,status,cap_sum,cap_sum_adj,cost_fuel,cost_vom,fom_kwy,hr,mapping,confidence
+110231_P1,_AK__AK_G1_P1,,,Solar,Solar,Operating,,,,,,,manual,lo
+111181_N1,111181__N1,,,Wind,Wind,Operating,,,,,,,manual,lo
+170200_S1,ACA_UNIT1_S1,,,Solar,Solar,Operating,,,,,,,manual,lo
+180021_H1,AMI_AMISTAG1_H1,Amistad Dam & Power,1,Water,Hydro,Operating,29,29,0,6.28,8.82,0,manual,hi
+180022_H2,AMI_AMISTAG2_H2,Amistad Dam & Power,2,Water,Hydro,Operating,29,29,0,6.28,8.82,0,manual,hi
+110280_PE,AMO_AMOCO_G1_PE,,,Natural Gas,Combustion Turbine,,,,,,,,manual,lo
+110281_PE,AMO_AMOCO_G2_PE,,,Natural Gas,Combustion Turbine,,,,,,,,manual,lo
+110282_PE,AMO_AMOCO_G3_PE,,,Natural Gas,Combustion Turbine,,,,,,,,manual,lo
+110283_PE,AMO_AMOCO_S1_PE,,,Natural Gas,Combustion Turbine,,,,,,,,manual,lo
+110284_PE,AMO_AMOCO_S2_PE,,,Natural Gas,Combustion Turbine,,,,,,,,manual,lo
+110271_PE,AMOC_AMOCO_1_PE,,,Natural Gas,Combustion Turbine,,,,,,,,manual,lo
+110272_PE,AMOC_AMOCO_2_PE,,,Natural Gas,Combustion Turbine,,,,,,,,manual,lo
+110273_PE,AMOC_AMOCO_5_PE,,,Natural Gas,Combustion Turbine,,,,,,,,manual,lo
+181451_W1,ANACACHO_ANA_W1,Anacacho Wind Farm,ANA,Wind,Wind,Operating,99.8,99.8,0,1.93,18.27,0,manual,hi
+141601_N1,ANTLP_G1_N1,Antelope Station,E01,Natural Gas,Internal Combustion,Operating,4.55,4.55,29.56,7.01,34.43,9.06,manual,hi
+141602_N2,ANTLP_G2_N2,Antelope Station,E03,Natural Gas,Internal Combustion,Operating,4.55,4.55,29.56,7.01,34.43,9.06,manual,hi
+141603_N3,ANTLP_G3_N3,Antelope Station,E02,Natural Gas,Internal Combustion,Operating,4.55,4.55,29.56,7.01,34.43,9.06,manual,hi
+120013_N7,ATK_ATKINSG7_N7,,,Solar,Solar,Operating,,,,,,,manual,lo
+170021_H1,AUS_AUSTING1_H1,,,Solar,Solar,Operating,,,,,,,manual,lo
+170021_H2,AUS_AUSTING1_H2,,,Solar,Solar,Operating,,,,,,,manual,lo
+110971_N1,AZ_AZ_G1_N1,ExTex LaPorte Generation Station,GT1,Natural Gas,Combustion Turbine,Operating,38,38,43.51,3.88,4.01,13.04,manual,hi
+110972_N2,AZ_AZ_G2_N2,ExTex LaPorte Generation Station,GT2,Natural Gas,Combustion Turbine,Operating,38,38,43.55,3.88,4.01,13.05,manual,hi
+110973_N3,AZ_AZ_G3_N3,ExTex LaPorte Generation Station,GT3,Natural Gas,Combustion Turbine,Operating,38,38,43.55,3.88,4.01,13.05,manual,hi
+110974_N4,AZ_AZ_G4_N4,ExTex LaPorte Generation Station,GT4,Natural Gas,Combustion Turbine,Operating,38,38,43.56,3.88,4.01,13.06,manual,hi
+160101_N1,B_D_B_DAVIG1_N1,Barney M Davis,1,Natural Gas,Steam Turbine,Operating,300,300,38.29,28.83,14.36,11.99,manual,hi
+160102_C0,B_D_B_DAVIG2_C0,Barney M Davis Repower,2,Natural Gas,Combined Cycle,Operating,319,319,24.45,1.55,9.76,7.66,manual,hi
+160103_C3,B_D_B_DAVIG3_C3,Barney M Davis Repower,3,Natural Gas,Combined Cycle,Operating,157,157,24.45,1.55,9.76,7.66,manual,hi
+160104_C4,B_D_B_DAVIG4_C4,Barney M Davis Repower,4,Natural Gas,Combined Cycle,Operating,157,157,24.45,1.55,9.76,7.66,manual,hi
+111132_N1,BAC_CTG1_N1,Bacliff (Cielo Lindo/P.H. Robinson) Peakers,BCGT1,Natural Gas,Combustion Turbine,Operating,65,65,43.65,6.93,6.13,13.08,manual,hi
+111133_N2,BAC_CTG2_N2,Bacliff (Cielo Lindo/P.H. Robinson) Peakers,BCGT2,Natural Gas,Combustion Turbine,Operating,65,65,44.45,6.93,6.13,13.32,manual,hi
+111134_N3,BAC_CTG3_N3,Bacliff (Cielo Lindo/P.H. Robinson) Peakers,BCGT3,Natural Gas,Combustion Turbine,Operating,65,65,45.49,6.93,6.13,13.63,manual,hi
+111135_N4,BAC_CTG4_N4,Bacliff (Cielo Lindo/P.H. Robinson) Peakers,BCGT4,Natural Gas,Combustion Turbine,Operating,65,65,44.69,6.93,6.13,13.39,manual,hi
+111136_N5,BAC_CTG5_N5,Bacliff (Cielo Lindo/P.H. Robinson) Peakers,BCGT5,Natural Gas,Combustion Turbine,Operating,65,65,44.03,6.93,6.13,13.19,manual,hi
+111137_N6,BAC_CTG6_N6,Bacliff (Cielo Lindo/P.H. Robinson) Peakers,BCGT6,Natural Gas,Combustion Turbine,Operating,65,65,45.26,6.93,6.13,13.56,manual,hi
+160296_W1,BAFFIN_UNIT1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+160297_W2,BAFFIN_UNIT2_W2,,,Wind,Wind,Operating,,,,,,,manual,lo
+170181_C1,BAST_GTG1100_C1,Bastrop Energy Center,1,Natural Gas,Combined Cycle,Operating,149,149,26.18,1.4,10.95,8.03,manual,hi
+170182_C2,BAST_GTG2100_C2,Bastrop Energy Center,2,Natural Gas,Combined Cycle,Operating,149,149,26.18,1.4,10.95,8.03,manual,hi
+170183_C0,BASTE_ST0100_C0,Bastrop Energy Center,3,Natural Gas,Combined Cycle,Operating,227,227,26.18,1.4,10.95,8.03,manual,hi
+161751_W1,BBREEZE_W1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+161752_W2,BBREEZE_W2_W2,,,Wind,Wind,Operating,,,,,,,manual,lo
+140401_W2,BCAT_WND1_W2,Bobcat Bluff Wind Project (Windthorst-1),GEN1,Wind,Wind,Operating,150,150,0,1.91,17.89,0,manual,hi
+132991_W1,BEARKAT_W1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+111041_PE,BFM_HYD_ST1_PE,,,Water,Hydro,Operating,,,,,,,manual,lo
+109021_B1,BL_BL_BRN_1_B1,,,Solar,Solar,Operating,,,,,,,manual,lo
+109062_B1,BL_BL_MILT_2_B1,,,Wind,Wind,Operating,,,,,,,manual,lo
+109081_B1,BL_CCSWC_B1,,,Wind,Wind,Operating,,,,,,,manual,lo
+140381_BT,BLSMT_1_5_BT,Blue Summit Wind Farm,,Wind,Wind,,,,,,,,manual,lo
+140381_W1,BLSMT_1_5_W1,Blue Summit Wind Farm,,Wind,Wind,,,,,,,,manual,lo
+140382_W2,BLSMT_1_6_W2,Blue Summit Wind Farm,GEN1,Wind,Wind,Operating,135.4,135.4,0,1.88,17.97,0,manual,hi
+132731_1,BOOTLE_UNIT1_1,,,Solar,Solar,Operating,,,,,,,manual,lo
+150141_C1,BOSQ_BSQSU_1_C1,Calpine Bosque Energy Center,GT-1,Natural Gas,Combined Cycle,Operating,154,154,23.91,0.97,10.37,7.02,manual,hi
+150142_C2,BOSQ_BSQSU_2_C2,Calpine Bosque Energy Center,GT-2,Natural Gas,Combined Cycle,Operating,154,154,23.91,0.97,10.37,7.02,manual,hi
+150144_C3,BOSQ_BSQSU_3_C3,Calpine Bosque Energy Center,GT-3,Natural Gas,Combined Cycle,Operating,154,154,23.91,0.97,10.37,7.02,manual,hi
+150145_C0,BOSQ_BSQSU_4_C0,Calpine Bosque Energy Center,ST-4,Natural Gas,Combined Cycle,Operating,86,86,23.91,0.97,10.37,7.02,manual,hi
+150143_C0,BOSQ_BSQSU_5_C0,Calpine Bosque Energy Center,ST-5,Natural Gas,Combined Cycle,Operating,200,200,23.91,0.97,10.37,7.02,manual,hi
+170134_C1,BRA_AVR1_CT1_C1,Arthur Von Rosenberg,1,Natural Gas,Combined Cycle,Operating,157,157,18.45,0.92,11.58,7.01,manual,hi
+170135_C2,BRA_AVR1_CT2_C2,Arthur Von Rosenberg,2,Natural Gas,Combined Cycle,Operating,157,157,18.45,0.92,11.58,7.01,manual,hi
+170136_C0,BRAU_AVR1_ST_C0,Arthur Von Rosenberg,3,Natural Gas,Combined Cycle,Operating,164,164,18.45,0.92,11.58,7.01,manual,hi
+170137_N1,BRAU_VHB6CT5_N1,V.H. Braunig Peaking,5,Natural Gas,Combustion Turbine,Operating,48,48,29.55,1.83,3.34,10.44,manual,hi
+170138_N2,BRAU_VHB6CT6_N2,V.H. Braunig Peaking,6,Natural Gas,Combustion Turbine,Operating,48,48,29.81,1.83,3.34,10.52,manual,hi
+170139_N3,BRAU_VHB6CT7_N3,V.H. Braunig Peaking,7,Natural Gas,Combustion Turbine,Operating,48,48,30.12,1.83,3.34,10.63,manual,hi
+170140_N4,BRAU_VHB6CT8_N4,V.H. Braunig Peaking,8,Natural Gas,Combustion Turbine,Operating,47,47,30.45,1.83,3.34,10.75,manual,hi
+170131_N1,BRAUNIG_VHB1_N1,V.H. Braunig,1,Natural Gas,Steam Turbine,Operating,217,217,32.1,9.81,11.97,11.6,manual,hi
+170132_N2,BRAUNIG_VHB2_N2,V.H. Braunig,2,Natural Gas,Steam Turbine,Operating,230,230,33.88,9.81,11.97,12.25,manual,hi
+170133_N3,BRAUNIG_VHB3_N3,V.H. Braunig,3,Natural Gas,Steam Turbine,Operating,412,412,31.58,9.81,11.97,11.42,manual,hi
+180251_W1,BRAZ_WN_WND1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+180252_W2,BRAZ_WN_WND2_W2,,,Wind,Wind,Operating,,,,,,,manual,lo
+161102_W1,BRDS_JAVEL18_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+161103_W2,BRDS_JAVEL20_W2,,,Wind,Wind,Operating,,,,,,,manual,lo
+161106_W3,BRDS_JAVEL2A_W3,,,Wind,Wind,Operating,,,,,,,manual,lo
+161107_W4,BRDS_JAVEL2B_W4,,,Wind,Wind,Operating,,,,,,,manual,lo
+161108_W5,BRDS_JAVEL2C_W5,,,Wind,Wind,Operating,,,,,,,manual,lo
+141302_W1,BRISCOE_G1_W1,Briscoe Wind Farm,BFW,Wind,Wind,Operating,150,150,0,1.82,17.43,0,manual,hi
+150411_W1,BRTSW_BCW1_W1,Barton Chapel Wind,BC,Wind,Wind,Operating,120,120,0,2.09,18.66,0,manual,hi
+110551_P1,BSF_GN_P1,,,Wind,Wind,Operating,,,,,,,manual,lo
+110731_PE,BTE_BTE_G1_PE,Baytown Power Plant,STG1,Natural Gas,Combined Cycle,Operating,275,275,22.25,0.95,10.24,6.67,manual,hi
+110732_PE,BTE_BTE_G2_PE,Baytown Power Plant,CTG1,Natural Gas,Combined Cycle,Operating,165,165,22.25,0.95,10.24,6.67,manual,hi
+110733_PE,BTE_BTE_G3_PE,Baytown Power Plant,CTG2,Natural Gas,Combined Cycle,Operating,165,165,22.25,0.95,10.24,6.67,manual,hi
+110734_PE,BTE_BTE_G4_PE,Baytown Power Plant,CTG3,Natural Gas,Combined Cycle,Operating,165,165,22.25,0.95,10.24,6.67,manual,hi
+180001_H1,BUC_BUCHANG1_H1,Buchanan Hydro (TX),1,Water,Hydro,Operating,18.3,18.3,0,43.72,11.98,0,manual,hi
+180002_H2,BUC_BUCHANG2_H2,Buchanan Hydro (TX),2,Water,Hydro,Operating,18.3,18.3,0,43.72,11.98,0,manual,hi
+180003_H3,BUC_BUCHANG3_H3,Buchanan Hydro (TX),3,Water,Hydro,Operating,18.3,18.3,0,43.72,11.98,0,manual,hi
+151091_W1,BUCKTHRN_G1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+151091_W2,BUCKTHRN_G1_W2,,,Wind,Wind,Operating,,,,,,,manual,lo
+180451_W1,BUFF_G_UNIT1_W1,Buffalo Gap,1,Wind,Wind,Operating,120.6,120.6,0,2.08,19.22,0,manual,hi
+180453_W1,BUFF_G_UNIT3_W1,Buffalo Gap 3,GEN1,Wind,Wind,Operating,170.2,170.2,0,1.97,18.34,0,manual,hi
+180450_W1,BUFFG_UNIT2A_W1,Buffalo Gap II,1,Wind,Wind,Operating,232.5,232.5,0,2.05,15.52,0,manual,hi
+180452_W2,BUFFG_UNIT2B_W2,,,Wind,Wind,Operating,,,,,,,manual,lo
+131951_W1,BULLCRK_WND1_W1,Bull Creek Wind,1,Wind,Wind,Operating,180,180,0,2.03,18.27,0,manual,hi
+131952_W1,BULLCRK_WND2_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+110771_C1,BVE_UNIT1_C1,Jack A. Fusco Energy Center (Brazos Valley),STG1,Natural Gas,Combined Cycle,Operating,193,193,25.38,1.14,10.69,7.45,manual,hi
+110772_C2,BVE_UNIT2_C2,Jack A. Fusco Energy Center (Brazos Valley),CTG1,Natural Gas,Combined Cycle,Operating,166,166,25.38,1.14,10.69,7.45,manual,hi
+110773_C0,BVE_UNIT3_C0,Jack A. Fusco Energy Center (Brazos Valley),CTG2,Natural Gas,Combined Cycle,Operating,166,166,25.38,1.14,10.69,7.45,manual,hi
+110201_PE,BYU_BYU_G1_PE,,,Natural Gas,Combustion Turbine,,,,,,,,manual,lo
+110202_PE,BYU_BYU_G2_PE,,,Natural Gas,Combustion Turbine,,,,,,,,manual,lo
+110203_PE,BYU_BYU_G3_PE,,,Natural Gas,Combustion Turbine,,,,,,,,manual,lo
+110204_PE,BYU_BYU_G4_PE,,,Natural Gas,Combustion Turbine,,,,,,,,manual,lo
+110205_C0,BYU_BYU_G8_C0,,,Natural Gas,Combustion Turbine,,,,,,,,manual,lo
+170441_W1,CACTSFLT_U1_W1,Cactus Flats Wind Farm,WT1,Wind,Wind,Operating,148.35,148.35,0,2.08,25.84,0,manual,hi
+110521_PE,CAL_CALGT1_PE,,,Natural Gas,Combined Cycle,,,,,,,,manual,lo
+110522_PE,CAL_CALSTG1_PE,,,Natural Gas,Combined Cycle,,,,,,,,manual,lo
+170125_L1,CALAVER_JKS1_L1,J.T. Deely,1,Coal,Steam Turbine,Mothballed,420,420,20.67,2.93,27.43,10.56,manual,hi
+170126_L2,CALAVER_JKS2_L2,J.T. Deely,2,Coal,Steam Turbine,Mothballed,420,420,21.48,2.93,27.43,10.97,manual,hi
+170121_L1,CALAVER_JTD1_L1,J.K. Spruce,1,Coal,Steam Turbine,Operating,560,560,20.39,2.8,28.06,10.25,manual,hi
+170122_L2,CALAVER_JTD2_L2,J.K. Spruce,2,Coal,Steam Turbine,Operating,785,785,19.62,2.8,28.06,9.86,manual,hi
+170123_N1,CALAVER_OWS1_N1,O.W. Sommers,2,Natural Gas,Steam Turbine,Operating,410,410,40.96,8.49,11.87,12.57,manual,hi
+170124_N2,CALAVER_OWS2_N2,O.W. Sommers,1,Natural Gas,Steam Turbine,Operating,420,420,40.93,8.49,11.87,12.56,manual,hi
+111221_1,CALHOUN_G1_1,Calhoun Project (Port Comfort),PC1,Natural Gas,Combustion Turbine,Operating,50,50,33.02,6.81,8.43,10.13,manual,hi
+111241_2,CALHOUN_G2_2,Calhoun Project (Port Comfort),PC2,Natural Gas,Combustion Turbine,Operating,50,50,33.02,6.81,8.43,10.13,manual,hi
+180351_W1,CALLAHA_WND1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+160982_W1,CAMWIND_G1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+170111_H1,CAN_CANYHYG1_H1,Canyon,1,Water,Hydro,Operating,3,3,0,27.24,24.37,0,manual,hi
+170111_H2,CAN_CANYHYG1_H2,Canyon,1,Water,Hydro,Operating,3,3,0,27.24,24.37,0,manual,hi
+180758_W1,CAPRIDG4_CR4_W1,Capricorn Ridge Wind,4,Wind,Wind,Operating,112.5,112.5,0,1.97,13.9,0,manual,hi
+180751_W1,CAPRIDGE_CR1_W1,Capricorn Ridge Wind,1,Wind,Wind,Operating,149.5,149.5,0,1.97,13.9,0,manual,hi
+180753_W1,CAPRIDGE_CR2_W1,Capricorn Ridge Wind,2,Wind,Wind,Operating,214.5,214.5,0,1.97,13.9,0,manual,hi
+180756_W1,CAPRIDGE_CR3_W1,Capricorn Ridge Wind,3,Wind,Wind,Operating,186,186,0,1.97,13.9,0,manual,hi
+131131_PE,CARBN_BSP_1_PE,,,Solar,Solar,Operating,,,,,,,manual,lo
+132781_G1,CASLGP_UNIT1_G1,Castle Gap Solar Project (SP-TX-12) (Upton 2),CGAP-B,Solar,Solar,Operating,150,150,0,0,28.3,0,manual,hi
+110791_C1,CBEC_GT1_C1,Colorado Bend Energy Center,CT1A,Natural Gas,Combined Cycle,Operating,70,70,27.33,1.38,10.43,8.38,manual,hi
+110792_C2,CBEC_GT2_C2,Colorado Bend Energy Center,CT1B,Natural Gas,Combined Cycle,Operating,62,62,27.33,1.38,10.43,8.38,manual,hi
+110794_C3,CBEC_GT3_C3,Colorado Bend Energy Center,CT2A,Natural Gas,Combined Cycle,Operating,69,69,27.33,1.38,10.43,8.38,manual,hi
+110795_C4,CBEC_GT4_C4,Colorado Bend Energy Center,CT2B,Natural Gas,Combined Cycle,Operating,63,63,27.33,1.38,10.43,8.38,manual,hi
+110793_C0,CBEC_STG1_C0,Colorado Bend Energy Center,ST1,Natural Gas,Combined Cycle,Operating,101,101,27.33,1.38,10.43,8.38,manual,hi
+110796_C0,CBEC_STG2_C0,Colorado Bend Energy Center,ST2,Natural Gas,Combined Cycle,Operating,103,103,27.33,1.38,10.43,8.38,manual,hi
+111141_C1,CBECII_CT7_C1,Colorado Bend Energy Center II,CT7,Natural Gas,Combined Cycle,Operating,360.9,360.9,22.94,0.97,8.95,7.04,manual,hi
+111142_C2,CBECII_CT8_C2,Colorado Bend Energy Center II,CT8,Natural Gas,Combined Cycle,Operating,360.9,360.9,22.94,0.97,8.95,7.04,manual,hi
+111143_C0,CBECII_STG9_C0,Colorado Bend Energy Center II,STG9,Natural Gas,Combined Cycle,Operating,508.5,508.5,22.94,0.97,8.95,7.04,manual,hi
+110071_N1,CBY_CBY_G1_N1,Cedar Bayou,1,Natural Gas,Steam Turbine,Operating,746,746,37.63,4.5,11.04,11.28,manual,hi
+110072_N2,CBY_CBY_G2_N2,Cedar Bayou,2,Natural Gas,Steam Turbine,Operating,749,749,37.46,4.5,11.04,11.23,manual,hi
+110073_C1,CBY4_CT41_C1,Cedar Bayou 4,41,Natural Gas,Combined Cycle,Operating,165,165,25.93,1.65,10.01,7.77,manual,hi
+110074_C2,CBY4_CT42_C2,Cedar Bayou 4,42,Natural Gas,Combined Cycle,Operating,165,165,25.93,1.65,10.01,7.77,manual,hi
+110075_C0,CBY4_ST04_C0,Cedar Bayou 4,4,Natural Gas,Combined Cycle,Operating,172,172,25.93,1.65,10.01,7.77,manual,hi
+160261_PE,CCEC_GT1_PE,,,Natural Gas,Combined Cycle,,,,,,,,manual,lo
+160262_PE,CCEC_GT2_PE,,,Natural Gas,Combined Cycle,,,,,,,,manual,lo
+160263_PE,CCEC_ST1_PE,,,Natural Gas,Combined Cycle,,,,,,,,manual,lo
+160591_W1,CEDROHI_CHW1_W1,Cedro Hill Wind,1,Wind,Wind,Operating,150,150,0,1.92,18.19,0,manual,hi
+160593_W2,CEDROHI_CHW2_W2,Cedro Hill Wind,,Wind,Wind,Operating,,,,,,,manual,lo
+160221_P1,CEL_CELANEG1_P1,,,Wind,Wind,Operating,,,,,,,manual,lo
+111261_1,CHAMON_G1_1,CHAMON (Castleman Chamon) Project,CH1,Natural Gas,Combustion Turbine,Operating,50,50,35.01,21.63,14.02,10.49,manual,hi
+111262_1,CHAMON_G2_1,CHAMON (Castleman Chamon) Project,CH2,Natural Gas,Combustion Turbine,Operating,50,50,35.01,21.63,14.02,10.49,manual,hi
+180951_W1,CHAMPI_UNIT1_W1,Champion Wind Farm  (Roscoe Phase 2),CH1,Wind,Wind,Operating,126.5,126.5,0,2.02,18.76,0,manual,hi
+161451_W1,CHAWND_UNIT1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+161452_W2,CHAWND_UNIT2_W2,,,Wind,Wind,Operating,,,,,,,manual,lo
+110661_PE,CHE_CHEGT1_PE,,,Natural Gas,Combined Cycle,,,,,,,,manual,lo
+110662_PE,CHE_CHEST1_PE,,,Natural Gas,Combined Cycle,,,,,,,,manual,lo
+110663_C2,CHE_GT2_C2,,,Natural Gas,Combustion Turbine,,,,,,,,manual,lo
+110668_C3,CHE_GT3_C3,,,Natural Gas,Combustion Turbine,,,,,,,,manual,lo
+160121_L1,COL_COLETOG1_L1,Coleto Creek,1,Coal,Steam Turbine,Operating,635,635,25.39,2.82,27.2,10.27,manual,hi
+160392_W1,COTTON_PAP2_W1,Papalote Creek Wind Facility II,1,Wind,Wind,Operating,200.1,200.1,0,2.02,15.12,0,manual,hi
+141501_W1,COTWIND_W1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+141501_W2,COTWIND_W1_W2,,,Wind,Wind,Operating,,,,,,,manual,lo
+150111_U1,CPSES_UNIT1_U1,Comanche Peak,1,Uranium,Nuclear,Operating,"1,205.00","1,205.00",8.37,2.86,95.26,10.4,manual,hi
+150112_U2,CPSES_UNIT2_U2,Comanche Peak,2,Uranium,Nuclear,Operating,"1,195.00","1,195.00",8.37,2.86,95.26,10.4,manual,hi
+180651_W1,CSEC_CSECG1_W1,Camp Springs Energy Center,SCW,Wind,Wind,Operating,130.5,130.5,0,2.02,18.89,0,manual,hi
+180652_W2,CSEC_CSECG2_W2,Camp Springs Energy Center,SCW,Wind,Wind,Operating,130.5,130.5,0,2.02,18.89,0,manual,hi
+110821_C1,CVC_CVC_G1_C1,Channelview Cogeneration Facility,GT1,Natural Gas,Combined Cycle,Operating,169,169,20.47,0.82,10.29,6.14,manual,hi
+110822_C2,CVC_CVC_G2_C2,Channelview Cogeneration Facility,GT2,Natural Gas,Combined Cycle,Operating,163,163,20.47,0.82,10.29,6.14,manual,hi
+110823_C3,CVC_CVC_G3_C3,Channelview Cogeneration Facility,GT3,Natural Gas,Combined Cycle,Operating,166,166,20.47,0.82,10.29,6.14,manual,hi
+110824_C0,CVC_CVC_G5_C0,Channelview Cogeneration Facility,ST1,Natural Gas,Combined Cycle,Operating,144,144,20.47,0.82,10.29,6.14,manual,hi
+120051_N1,DAN_DANSBYG1_N1,Roland C Dansby,1,Natural Gas,Steam Turbine,Operating,110,110,53.84,19.13,21.6,15.81,manual,hi
+120052_N1,DAN_DANSBYG2_N1,Roland C Dansby CT,2,Natural Gas,Combustion Turbine,Operating,47.1,47.1,37.45,5.92,4.26,10.99,manual,hi
+120053_N1,DAN_DANSBYG3_N1,Roland C Dansby CT,3,Natural Gas,Combustion Turbine,Operating,47.1,47.1,36.18,5.92,4.26,10.62,manual,hi
+160007_F1,DC__BL_EAGLE_F1,,,Wind,Wind,Operating,,,,,,,manual,lo
+160007_F2,DC__BL_EAGLE_F2,,,Wind,Wind,Operating,,,,,,,manual,lo
+160008_B1,DC_R_BL_ROAD_B1,,,Wind,Wind,Operating,,,,,,,manual,lo
+901841_B2,DC_R_BL_ROAD_B2,Hereford Wind Farm II (Jumbo Road),JRWND,Wind,Wind,Operating,299.7,299.7,0,1.96,13.56,0,manual,hi
+150721_N1,DCSES_CT10_N1,Decordova CT,CT1,Natural Gas,Combustion Turbine,Operating,71,71,44.83,36.73,3.99,14.17,manual,hi
+150722_N2,DCSES_CT20_N2,Decordova CT,CT2,Natural Gas,Combustion Turbine,Operating,70,70,41.44,36.73,3.99,13.1,manual,hi
+150723_N3,DCSES_CT30_N3,Decordova CT,CT3,Natural Gas,Combustion Turbine,Operating,69,69,53.48,36.73,3.99,16.9,manual,hi
+150724_N4,DCSES_CT40_N4,Decordova CT,CT4,Natural Gas,Combustion Turbine,Operating,68,68,42.41,36.73,3.99,13.4,manual,hi
+140001_EQ,DCTM_DCTMG1_EQ,,,Wind,Wind,Operating,,,,,,,manual,lo
+110751_C1,DDPEC_GT1_C1,Deer Park Energy Center,CTG1,Natural Gas,Combined Cycle,Operating,169.8,169.8,21.8,0.79,9.79,6.53,manual,hi
+110752_C2,DDPEC_GT2_C2,Deer Park Energy Center,CTG2,Natural Gas,Combined Cycle,Operating,169.8,169.8,21.8,0.79,9.79,6.53,manual,hi
+110753_C3,DDPEC_GT3_C3,Deer Park Energy Center,CTG3,Natural Gas,Combined Cycle,Operating,169.8,169.8,21.8,0.79,9.79,6.53,manual,hi
+110754_C4,DDPEC_GT4_C4,Deer Park Energy Center,CTG4,Natural Gas,Combined Cycle,Operating,169.8,169.8,21.8,0.79,9.79,6.53,manual,hi
+110761_C6,DDPEC_GT6_C6,Deer Park Energy Center,CTG6,Natural Gas,Combined Cycle,Operating,154.8,154.8,21.8,0.79,9.79,6.53,manual,hi
+110755_C0,DDPEC_ST1_C0,Deer Park Energy Center,STG1,Natural Gas,Combined Cycle,Operating,282,282,21.8,0.79,9.79,6.53,manual,hi
+151191_N1,DEC_AGR_A_N1,,,Wind,Wind,Operating,,,,,,,manual,lo
+151192_N2,DEC_AGR_B_N2,,,Wind,Wind,Operating,,,,,,,manual,lo
+151193_N3,DEC_AGR_C_N3,,,Wind,Wind,Operating,,,,,,,manual,lo
+151194_N4,DEC_AGR_D_N4,,,Wind,Wind,Operating,,,,,,,manual,lo
+170153_N3,DECKE_DPGT_1_N3,Decker Creek CT,GT1,Natural Gas,Combustion Turbine,Operating,52,52,42.08,14.19,4.18,12.91,manual,hi
+170154_N4,DECKE_DPGT_2_N4,Decker Creek CT,GT2,Natural Gas,Combustion Turbine,Operating,52,52,41.1,14.19,4.18,12.61,manual,hi
+170155_N5,DECKE_DPGT_3_N5,Decker Creek CT,GT3,Natural Gas,Combustion Turbine,Operating,52,52,41.73,14.19,4.18,12.8,manual,hi
+170156_N6,DECKE_DPGT_4_N6,Decker Creek CT,GT4,Natural Gas,Combustion Turbine,Operating,52,52,42.33,14.19,4.18,12.99,manual,hi
+170151_N1,DECKER_DPG1_N1,Decker Creek,1,Natural Gas,Steam Turbine,Operating,320,320,35.72,9.18,12.02,10.96,manual,hi
+170152_N2,DECKER_DPG2_N2,Decker Creek,2,Natural Gas,Steam Turbine,Operating,404,404,38.64,9.18,12.02,11.85,manual,hi
+181851_W1,DERMOTT_W1_W1,Dermott Wind Farm (Amazon Wind Farm Texas),DERM,Wind,Wind,Operating,253,253,0,1.94,13.24,0,manual,hi
+181901_W2,DERMOTT_W2_W2,Dermott Wind Farm (Amazon Wind Farm Texas),,Wind,Wind,Operating,,,,,,,manual,lo
+110171_PE,DIB_DIB_G1_PE,,,Natural Gas,Combustion Turbine,,,,,,,,manual,lo
+110172_PE,DIB_DIB_G2_PE,,,Natural Gas,Combustion Turbine,,,,,,,,manual,lo
+110173_PE,DIB_DIB_G3_PE,,,Natural Gas,Combustion Turbine,,,,,,,,manual,lo
+110174_PE,DIB_DIB_G4_PE,,,Natural Gas,Combustion Turbine,,,,,,,,manual,lo
+140011_H1,DND_DENISOG1_H1,Denison,1,Water,Hydro,Operating,20,20,0,3.68,9.91,0,manual,hi
+140012_H2,DND_DENISOG2_H2,Denison,2,Water,Hydro,Operating,20,20,0,3.68,9.91,0,manual,hi
+110146_P1,DOW_DOW_GT96_P1,Dow Chemical Texas Operations,,Natural Gas,Combined Cycle,Operating,,,,,,,manual,lo
+110117_P1,DOW_DOW_ST64_P1,Dow Chemical Texas Operations,G-64,Natural Gas,Combined Cycle,Operating,35,35,19.87,1.17,13.95,5.95,manual,hi
+110125_P1,DOW_DOW_ST65_P1,Dow Chemical Texas Operations,G-65,Natural Gas,Combined Cycle,Operating,95.2,95.2,19.87,1.17,13.95,5.95,manual,hi
+110141_P1,DOW_DOW_ST84_P1,Dow Chemical Texas Operations,,Natural Gas,Combined Cycle,Operating,,,,,,,manual,lo
+110147_P1,DOW_DOW_ST95_P1,Dow Chemical Texas Operations,,Natural Gas,Combined Cycle,Operating,,,,,,,manual,lo
+110111_P1,DOWG_DOW_G37_P1,Dow Chemical Texas Operations,G-37,Natural Gas,Combined Cycle,Operating,59.2,59.2,19.87,1.17,13.95,5.95,manual,hi
+110114_P1,DOWG_DOW_G61_P1,Dow Chemical Texas Operations,G-61,Natural Gas,Combined Cycle,Operating,68.3,68.3,19.87,1.17,13.95,5.95,manual,hi
+110116_P1,DOWG_DOW_G63_P1,Dow Chemical Texas Operations,G-63,Natural Gas,Combined Cycle,Operating,68.3,68.3,19.87,1.17,13.95,5.95,manual,hi
+110124_P1,DOWG_DOW_G66_P1,Dow Chemical Texas Operations,G-66,Natural Gas,Combined Cycle,Operating,95.6,95.6,19.87,1.17,13.95,5.95,manual,hi
+110123_P1,DOWG_DOW_G67_P1,Dow Chemical Texas Operations,G-67,Natural Gas,Combined Cycle,Operating,95.6,95.6,19.87,1.17,13.95,5.95,manual,hi
+110135_P1,DOWG_DOW_G81_P1,Dow Chemical Texas Operations,,Natural Gas,Combined Cycle,Operating,,,,,,,manual,lo
+110137_P1,DOWG_DOW_G82_P1,Dow Chemical Texas Operations,,Natural Gas,Combined Cycle,Operating,,,,,,,manual,lo
+110139_P1,DOWG_DOW_G83_P1,Dow Chemical Texas Operations,,Natural Gas,Combined Cycle,Operating,,,,,,,manual,lo
+160191_C1,DUK_DUKE_GT1_C1,Hidalgo Energy Center,CTG1,Natural Gas,Combined Cycle,Operating,149,149,25.02,1.47,11.37,7.56,manual,hi
+160192_C2,DUK_DUKE_GT2_C2,Hidalgo Energy Center,CTG2,Natural Gas,Combined Cycle,Operating,149,149,25.02,1.47,11.37,7.56,manual,hi
+160193_C0,DUK_DUKE_ST1_C0,Hidalgo Energy Center,STG1,Natural Gas,Combined Cycle,Operating,172,172,25.02,1.47,11.37,7.56,manual,hi
+110681_P1,DUP_DUPV1_G1_P1,,,Wind,Wind,Operating,,,,,,,manual,lo
+160051_H1,EA_EAGLE_HY1_H1,Eagle Pass,2,Water,Hydro,Operating,3.2,3.2,0,13.76,38.88,0,manual,hi
+160051_H2,EA_EAGLE_HY1_H2,Eagle Pass,2,Water,Hydro,Operating,3.2,3.2,0,13.76,38.88,0,manual,hi
+160051_H3,EA_EAGLE_HY1_H3,Eagle Pass,2,Water,Hydro,Operating,3.2,3.2,0,13.76,38.88,0,manual,hi
+132311_N1,ECEC_G1_N1,Ector County Energy Center (Goldsmith Peaking Facility),CTG1,Natural Gas,Combustion Turbine,Operating,150,150,24.4,2.44,3.57,11.1,manual,hi
+132312_N2,ECEC_G2_N2,Ector County Energy Center (Goldsmith Peaking Facility),CTG2,Natural Gas,Combustion Turbine,Operating,150,150,24.55,2.44,3.57,11.17,manual,hi
+181681_S1,ECLIPS_UNIT1_S1,,,Solar,Solar,Operating,,,,,,,manual,lo
+131651_W1,ELB_ELBCREEK_W1,Elbow Creek Wind Project,1,Wind,Wind,Operating,121.9,121.9,0,2.05,18.82,0,manual,hi
+141353_W1,ELECTRA_1_W1,Electra Wind Project,,Wind,Wind,Operating,,,,,,,manual,lo
+141354_W2,ELECTRA_2_W2,Electra Wind Project,EWF,Wind,Wind,Operating,230,230,0,1.79,17.22,0,manual,hi
+141604_N4,ELK_G1_N4,Antelope-Elk Energy Center,ELK1,Natural Gas,Combustion Turbine,Operating,97.5,97.5,22.98,1.95,0.64,10.4,manual,hi
+141608_N5,ELK_G2_N5,Antelope-Elk Energy Center,ELK3,Natural Gas,Combustion Turbine,Operating,97.5,97.5,22.98,1.95,0.64,10.4,manual,hi
+141609_N6,ELK_G3_N6,Antelope-Elk Energy Center,ELK2,Natural Gas,Combustion Turbine,Operating,95.5,95.5,22.98,1.95,0.64,10.4,manual,hi
+180851_W1,ENAS_ENA1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+150161_C1,ETCCS_CT1_C1,Ennis-Tractebel Power Project,GT1,Natural Gas,Combined Cycle,Operating,245.1,245.1,25.26,2.49,11.69,7.98,manual,hi
+150162_C0,ETCCS_UNIT1_C0,,,Wind,Wind,Operating,,,,,,,manual,lo
+160832_W1,EXG_WIND_1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+161052_W1,EXGNSND_W1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+110371_P1,EXN_EXN_G1_P1,Exxon Baytown CT,GT41,Natural Gas,Combustion Turbine,Operating,18,18,15.6,1.5,4.83,4.67,manual,hi
+110381_PE,EXN_EXN_G14_PE,Exxon Baytown Steam,ST34,Other Fuel,Steam Turbine,Operating,7.5,7.5,38.43,2.76,25.93,10.47,manual,hi
+110372_P2,EXN_EXN_G2_P2,Exxon Baytown CT,GT42,Natural Gas,Combustion Turbine,Operating,18,18,15.6,1.5,4.83,4.67,manual,hi
+110373_P3,EXN_EXN_G3_P3,Exxon Baytown CT,GT43,Natural Gas,Combustion Turbine,Operating,18,18,15.6,1.5,4.83,4.67,manual,hi
+110374_P4,EXN_EXN_G4_P4,Exxon Baytown CT,GT44,Natural Gas,Combustion Turbine,Operating,18,18,15.6,1.5,4.83,4.67,manual,hi
+110375_P8,EXN_EXN_G8_P8,Exxon Baytown CT,GT38,Natural Gas,Combustion Turbine,Operating,31,31,15.6,1.5,4.83,4.67,manual,hi
+110375_PF,EXN_EXN_G8_PF,Exxon Baytown CT,GT38,Natural Gas,Combustion Turbine,Operating,31,31,15.6,1.5,4.83,4.67,manual,hi
+110376_P9,EXN_EXN_G9_P9,Exxon Baytown CT,GT45,Natural Gas,Combustion Turbine,Operating,31,31,15.6,1.5,4.83,4.67,manual,hi
+110376_PA,EXN_EXN_G9_PA,Exxon Baytown CT,GT45,Natural Gas,Combustion Turbine,Operating,31,31,15.6,1.5,4.83,4.67,manual,hi
+110376_PB,EXN_EXN_G9_PB,Exxon Baytown CT,GT45,Natural Gas,Combustion Turbine,Operating,31,31,15.6,1.5,4.83,4.67,manual,hi
+110376_PC,EXN_EXN_G9_PC,Exxon Baytown CT,GT45,Natural Gas,Combustion Turbine,Operating,31,31,15.6,1.5,4.83,4.67,manual,hi
+110376_PD,EXN_EXN_G9_PD,Exxon Baytown CT,GT45,Natural Gas,Combustion Turbine,Operating,31,31,15.6,1.5,4.83,4.67,manual,hi
+160061_H1,FAL_FALCONG1_H1,Falcon Dam & Power,1,Water,Hydro,Operating,10.5,10.5,0,10.22,14.38,0,manual,hi
+160062_H2,FAL_FALCONG2_H2,Falcon Dam & Power,2,Water,Hydro,Operating,10,10,0,10.22,14.38,0,manual,hi
+160063_H3,FAL_FALCONG3_H3,Falcon Dam & Power,3,Water,Hydro,Operating,10,10,0,10.22,14.38,0,manual,hi
+180012_C1,FERGGT1_C1,Thomas C Ferguson CC Project,CT-1,Natural Gas,Combined Cycle,Operating,168,168,22,0.76,9.4,6.7,manual,hi
+180013_C2,FERGGT2_C2,Thomas C Ferguson CC Project,CT-2,Natural Gas,Combined Cycle,Operating,168,168,22,0.76,9.4,6.7,manual,hi
+180014_C0,FERGST1_C0,Thomas C Ferguson CC Project,STG,Natural Gas,Combined Cycle,Operating,180,180,22,0.76,9.4,6.7,manual,hi
+150801_W1,FG_SENATE_G1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+151142_W1,FLAT_TOP_5_W1,FTWIND (Flat Top Wind I),FTWI,Wind,Wind,Operating,200,200,0,2.02,15.54,0,manual,hi
+130001_C1,FLCNS_UNIT1_C1,,,Natural Gas,Combustion Turbine,,,,,,,,manual,lo
+130002_C2,FLCNS_UNIT2_C2,,,Natural Gas,Combustion Turbine,,,,,,,,manual,lo
+130003_C0,FLCNS_UNIT3_C0,,,Natural Gas,Combustion Turbine,,,,,,,,manual,lo
+150511_W1,FLTCK_SSI_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+181951_1,FLUVANNA_W1_1,Fluvanna Renewable Energy Project,FLUV1,Wind,Wind,Operating,155.4,155.4,0,1.95,13.37,0,manual,hi
+182001_1,FLUVANNA_W2_1,Fluvanna Renewable Energy Project,,Wind,Wind,Operating,,,,,,,manual,lo
+110460_PA,FO_FORMOSG10_PA,Formosa Utility Venture,ST1,Natural Gas,Combined Cycle,Operating,28.5,28.5,15.94,1.21,12.01,4.95,manual,hi
+110467_PB,FO_FORMOSG11_PB,Formosa Utility Venture,ST2,Natural Gas,Combined Cycle,Operating,57.5,57.5,15.94,1.21,12.01,4.95,manual,hi
+110469_PC,FO_FORMOSG12_PC,Formosa Utility Venture,ST3,Natural Gas,Combined Cycle,Operating,47.3,47.3,15.94,1.21,12.01,4.95,manual,hi
+110451_P1,FOR_FORMOSG1_P1,Formosa Utility Venture,TBG1,Natural Gas,Combined Cycle,Operating,72,72,15.94,1.21,12.01,4.95,manual,hi
+110452_P2,FOR_FORMOSG2_P2,Formosa Utility Venture,TBG2,Natural Gas,Combined Cycle,Operating,72,72,15.94,1.21,12.01,4.95,manual,hi
+110453_P3,FOR_FORMOSG3_P3,Formosa Utility Venture,TBG3,Natural Gas,Combined Cycle,Operating,72,72,15.94,1.21,12.01,4.95,manual,hi
+110454_P4,FOR_FORMOSG4_P4,Formosa Utility Venture,TBG4,Natural Gas,Combined Cycle,Operating,72,72,15.94,1.21,12.01,4.95,manual,hi
+110455_P5,FOR_FORMOSG5_P5,Formosa Utility Venture,TBG5,Natural Gas,Combined Cycle,Operating,72,72,15.94,1.21,12.01,4.95,manual,hi
+110456_P6,FOR_FORMOSG6_P6,Formosa Utility Venture,TBG6,Natural Gas,Combined Cycle,Operating,72,72,15.94,1.21,12.01,4.95,manual,hi
+110457_P7,FOR_FORMOSG7_P7,Formosa Utility Venture,,Natural Gas,Combined Cycle,Operating,,,,,,,manual,lo
+110458_P8,FOR_FORMOSG8_P8,Formosa Utility Venture,,Natural Gas,Combined Cycle,Operating,,,,,,,manual,lo
+110459_P9,FOR_FORMOSG9_P9,Formosa Utility Venture,,Natural Gas,Combined Cycle,Operating,,,,,,,manual,lo
+170101_L1,FPPYD_FPP_G1_L1,Fayette Power Project,1,Coal,Steam Turbine,Operating,590,590,18.65,2.58,27.96,10.59,manual,hi
+170102_L2,FPPYD_FPP_G2_L2,Fayette Power Project,2,Coal,Steam Turbine,Operating,590,590,18.5,2.58,27.96,10.5,manual,hi
+170103_L3,FPPYD_FPP_G3_L3,Fayette Power Project,3,Coal,Steam Turbine,Operating,435,435,18.34,2.58,27.96,10.41,manual,hi
+120111_C1,FREC_GT1_C1,Freestone Energy Center,GT1,Natural Gas,Combined Cycle,Operating,133.88,133.88,23.27,0.77,10,7.25,manual,hi
+120112_C2,FREC_GT2_C2,Freestone Energy Center,GT2,Natural Gas,Combined Cycle,Operating,133.88,133.88,23.27,0.77,10,7.25,manual,hi
+120114_C3,FREC_GT4_C3,Freestone Energy Center,GT3,Natural Gas,Combined Cycle,Operating,130.38,130.38,23.27,0.77,10,7.25,manual,hi
+120115_C4,FREC_GT5_C4,Freestone Energy Center,GT4,Natural Gas,Combined Cycle,Operating,130.38,130.38,23.27,0.77,10,7.25,manual,hi
+120113_C0,FREC_ST3_C0,Freestone Energy Center,ST3,Natural Gas,Combined Cycle,Operating,154.88,154.88,23.27,0.77,10,7.25,manual,hi
+120116_C0,FREC_ST6_C0,Freestone Energy Center,ST6,Natural Gas,Combined Cycle,Operating,150.5,150.5,23.27,0.77,10,7.25,manual,hi
+150181_C1,FRNYPP_GT11_C1,Forney Generating Facility,U1,Natural Gas,Combined Cycle,Operating,169,169,22.6,0.8,9.43,7.14,manual,hi
+150182_C2,FRNYPP_GT12_C2,Forney Generating Facility,U2,Natural Gas,Combined Cycle,Operating,169,169,22.6,0.8,9.43,7.14,manual,hi
+150183_C3,FRNYPP_GT13_C3,Forney Generating Facility,U3,Natural Gas,Combined Cycle,Operating,169,169,22.6,0.8,9.43,7.14,manual,hi
+150185_C1,FRNYPP_GT21_C1,Forney Generating Facility,U4,Natural Gas,Combined Cycle,Operating,169,169,22.6,0.8,9.43,7.14,manual,hi
+150186_C2,FRNYPP_GT22_C2,Forney Generating Facility,U5,Natural Gas,Combined Cycle,Operating,169,169,22.6,0.8,9.43,7.14,manual,hi
+150187_C3,FRNYPP_GT23_C3,Forney Generating Facility,U6,Natural Gas,Combined Cycle,Operating,168,168,22.6,0.8,9.43,7.14,manual,hi
+150184_C0,FRNYPP_ST10_C0,Forney Generating Facility,ST1,Natural Gas,Combined Cycle,Operating,415,415,22.6,0.8,9.43,7.14,manual,hi
+150188_C0,FRNYPP_ST20_C0,Forney Generating Facility,ST2,Natural Gas,Combined Cycle,Operating,415,415,22.6,0.8,9.43,7.14,manual,hi
+120091_C1,FTR_FTR_G1_C1,Tenaska Frontier,,Natural Gas,Combustion Turbine,,,,,,,,manual,lo
+120092_C2,FTR_FTR_G2_C2,Tenaska Frontier,,Natural Gas,Combustion Turbine,,,,,,,,manual,lo
+120093_C3,FTR_FTR_G3_C3,Tenaska Frontier,,Natural Gas,Combustion Turbine,,,,,,,,manual,lo
+120094_C0,FTR_FTR_G4_C0,Tenaska Frontier,,Natural Gas,Combustion Turbine,,,,,,,,manual,lo
+110092_N1,GBY_GBYGT73_N1,Greens Bayou CT,73,Natural Gas,Combustion Turbine,Operating,54,54,56.28,44.09,4.16,16.87,manual,hi
+110093_N2,GBY_GBYGT74_N2,Greens Bayou CT,74,Natural Gas,Combustion Turbine,Operating,54,54,52.91,44.09,4.16,15.86,manual,hi
+110094_N3,GBY_GBYGT81_N3,Greens Bayou CT,81,Natural Gas,Combustion Turbine,Operating,54,54,57.31,44.09,4.16,17.17,manual,hi
+110095_N4,GBY_GBYGT82_N4,Greens Bayou CT,82,Natural Gas,Combustion Turbine,Operating,64,64,60.16,44.09,4.16,18.03,manual,hi
+110096_N5,GBY_GBYGT83_N5,Greens Bayou CT,83,Natural Gas,Combustion Turbine,Operating,64,64,56.63,44.09,4.16,16.97,manual,hi
+110097_N6,GBY_GBYGT84_N6,Greens Bayou CT,84,Natural Gas,Combustion Turbine,Operating,64,64,58.69,44.09,4.16,17.59,manual,hi
+120061_L1,GIB_GIB_CRG1_L1,Gibbons Creek,1,Coal,Steam Turbine,Mothballed,470,470,23.19,7.34,26.89,10.09,manual,hi
+170071_N1,GID_GIDEONG1_N1,Sim Gideon,1,Natural Gas,Steam Turbine,Operating,136,136,35.88,9.8,12.83,11.01,manual,hi
+170072_N2,GID_GIDEONG2_N2,Sim Gideon,2,Natural Gas,Steam Turbine,Operating,136,136,37.45,9.8,12.83,11.49,manual,hi
+170073_N3,GID_GIDEONG3_N3,Sim Gideon,3,Natural Gas,Steam Turbine,Operating,335,335,37.27,9.8,12.83,11.43,manual,hi
+181351_W1,GOA_GOATWIND_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+181351_W2,GOA_GOATWIND_W2,,,Wind,Wind,Operating,,,,,,,manual,lo
+140951_W1,GPST_WIND_I_W1,Green Pastures Wind I,GPI,Wind,Wind,Operating,150,150,0,1.82,17.43,0,manual,hi
+140952_W2,GPST_WIND_II_W2,Green Pastures Wind II,GPII,Wind,Wind,Operating,150,150,0,1.82,17.43,0,manual,hi
+140654_W3,GRANDV_COLA_W3,,,Wind,Wind,Operating,,,,,,,manual,lo
+140655_W4,GRANDV_COLB_W4,,,Wind,Wind,Operating,,,,,,,manual,lo
+140651_W1,GRANDVW1_1A_W1,Grandview Wind Farm (Grandview I) (Conway Wind),GRVWI,Wind,Wind,Operating,211.2,211.2,0,1.95,14.03,0,manual,hi
+140652_W2,GRANDVW1_1B_W2,,,Wind,Wind,Operating,,,,,,,manual,lo
+150041_N1,GRSES_UNIT1_N1,,,Wind,Wind,Operating,,,,,,,manual,lo
+150042_N2,GRSES_UNIT2_N2,Graham,2,Natural Gas,Steam Turbine,Operating,390,390,38.1,3.07,11.69,11.99,manual,hi
+170161_C1,GUADG_GAS1_C1,Guadalupe Energy Center,CTG1,Natural Gas,Combined Cycle,Operating,148,148,23.16,0.92,10.09,7.11,manual,hi
+170162_C2,GUADG_GAS2_C2,Guadalupe Energy Center,CTG2,Natural Gas,Combined Cycle,Operating,148,148,23.16,0.92,10.09,7.11,manual,hi
+170164_C3,GUADG_GAS3_C3,Guadalupe Energy Center,CTG3,Natural Gas,Combined Cycle,Operating,148,148,23.16,0.92,10.09,7.11,manual,hi
+170165_C4,GUADG_GAS4_C4,Guadalupe Energy Center,CTG4,Natural Gas,Combined Cycle,Operating,148,148,23.16,0.92,10.09,7.11,manual,hi
+170166_C0,GUADG_STM6_C0,Guadalupe Energy Center,STG2,Natural Gas,Combined Cycle,Operating,197,197,23.16,0.92,10.09,7.11,manual,hi
+132382_W1,GUNMTN_G1_W1,Gunsight Mountain Wind Energy Project,1,Wind,Wind,Operating,120,120,0,1.8,17.31,0,manual,hi
+150962_W1,GWEC_G1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+180456_W1,H_HOLLO_WND1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+170191_N1,HAY_HAYSENG1_N1,Hays Energy Project,U1,Natural Gas,Combined Cycle,Operating,215,215,25.1,1.37,10.11,7.7,manual,hi
+170192_N2,HAY_HAYSENG2_N2,Hays Energy Project,U2,Natural Gas,Combined Cycle,Operating,215,215,25.1,1.37,10.11,7.7,manual,hi
+170193_N3,HAY_HAYSENG3_N3,Hays Energy Project,U3,Natural Gas,Combined Cycle,Operating,224,224,25.1,1.37,10.11,7.7,manual,hi
+170194_N4,HAY_HAYSENG4_N4,Hays Energy Project,U4,Natural Gas,Combined Cycle,Operating,227,227,25.1,1.37,10.11,7.7,manual,hi
+181732_S1,HELIOS_G1_S1,,,Solar,Solar,,,,,,,,manual,lo
+170231_W1,HHG_CALLAHAN_W1,Callahan Divide Wind Energy Center,1,Wind,Wind,Operating,114,114,0,2.11,19.55,0,manual,hi
+170232_W1,HHG_HHOLLOW1_W1,Horse Hollow Wind Energy Center,1,Wind,Wind,Operating,213,213,0,1.97,13.96,0,manual,hi
+170233_W1,HHG_HHOLLOW2_W1,Horse Hollow Wind Energy Center,2,Wind,Wind,Operating,223.5,223.5,0,1.97,13.96,0,manual,hi
+170234_W1,HHG_HHOLLOW3_W1,Horse Hollow Wind Energy Center,3,Wind,Wind,Operating,299,299,0,1.97,13.96,0,manual,hi
+170235_W1,HHG_HHOLLOW4_W1,Horse Hollow Wind Energy Center,,Wind,Wind,Operating,,,,,,,manual,lo
+180458_W1,HHOLLO_WIND1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+180460_W1,HHOLLO_WND_1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+180462_W1,HHOLLOW_WND1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+150051_N3,HLSES_UNIT3_N3,Handley,3,Natural Gas,Steam Turbine,Operating,395,395,43.22,7.3,11.41,13.66,manual,hi
+150052_N4,HLSES_UNIT4_N4,Handley,4,Natural Gas,Steam Turbine,Operating,435,435,43.53,7.3,11.41,13.76,manual,hi
+150053_N5,HLSES_UNIT5_N5,Handley,5,Natural Gas,Steam Turbine,Operating,435,435,43.65,7.3,11.41,13.79,manual,hi
+132831_S1,HOLMAN_UNIT1_S1,,,Solar,Solar,Operating,,,,,,,manual,lo
+141811_W1,HORSE_UNIT1_W1,Horse Creek Wind,HCWF,Wind,Wind,Operating,230,230,0,1.79,17.22,0,manual,hi
+141812_W2,HORSE_UNIT2_W2,Horse Creek Wind,,Wind,Wind,Operating,,,,,,,manual,lo
+181651_S1,HOVEY_UNIT1_S1,Barilla Solar Project,BRLA1,Solar,Solar,Operating,22.1,22.1,0,0,28.3,0,manual,hi
+181651_S2,HOVEY_UNIT1_S2,Barilla Solar Project,BRLA1,Solar,Solar,Operating,22.1,22.1,0,0,28.3,0,manual,hi
+140751_W1,HRFDWIND_G_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+140752_W2,HRFDWIND_V_W2,,,Wind,Wind,Operating,,,,,,,manual,lo
+150611_W1,HWF_HWFG1_W1,Hereford Wind Farm I,GEN1A,Wind,Wind,Operating,100.05,100.05,0,1.96,14.08,0,manual,hi
+141711_W1,HWFWF_W1_W1,Hereford Wind Farm I,GEN1B,Wind,Wind,Operating,99.95,99.95,0,1.96,14.08,0,manual,hi
+131032_W1,IN_INDNENR_2_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+180957_BT,IND_INADALE1_BT,Inadale Wind Farm (Roscoe Phase 4),1,Wind,Wind,Operating,197,197,0,1.93,18.05,0,manual,hi
+180957_W1,IND_INADALE1_W1,Inadale Wind Farm (Roscoe Phase 4),1,Wind,Wind,Operating,197,197,0,1.93,18.05,0,manual,hi
+181011_W2,IND_INADALE2_W2,,,Wind,Wind,Operating,,,,,,,manual,lo
+131031_W1,INDN_INDNENR_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+130331_W1,INDN_INDNNWP_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+160151_PE,INGLCOS_CTG1_PE,Ingleside Cogeneration,CTG1,Natural Gas,Combined Cycle,Operating,155,155,16.36,1.16,11.56,5.18,manual,hi
+160152_PE,INGLCOS_CTG2_PE,Ingleside Cogeneration,CTG2,Natural Gas,Combined Cycle,Operating,155,155,16.36,1.16,11.56,5.18,manual,hi
+160153_PE,INGLCOSW_STG_PE,Ingleside Cogeneration,STG,Natural Gas,Combined Cycle,Operating,150,150,16.36,1.16,11.56,5.18,manual,hi
+170011_H1,INKS_INKS_G1_H1,Inks,1,Water,Hydro,Operating,13.8,13.8,0,51.84,28.43,0,manual,hi
+150201_C1,JACKCNTY_CT1_C1,Jack County Generation,CT1,Natural Gas,Combined Cycle,Operating,165,165,24.26,1.39,9.56,7.43,manual,hi
+150202_C2,JACKCNTY_CT2_C2,Jack County Generation,CT2,Natural Gas,Combined Cycle,Operating,165,165,24.26,1.39,9.56,7.43,manual,hi
+150203_C0,JACKCNTY_STG_C0,Jack County Generation,ST1,Natural Gas,Combined Cycle,Operating,290.5,290.5,24.26,1.39,9.56,7.43,manual,hi
+150204_C4,JCKCNTY2_CT3_C4,Jack County Generation,CT3,Natural Gas,Combined Cycle,Operating,165,165,24.26,1.39,9.56,7.43,manual,hi
+150205_C5,JCKCNTY2_CT4_C5,Jack County Generation,CT4,Natural Gas,Combined Cycle,Operating,165,165,24.26,1.39,9.56,7.43,manual,hi
+150206_C0,JCKCNTY2_ST2_C0,Jack County Generation,ST2,Natural Gas,Combined Cycle,Operating,290.5,290.5,24.26,1.39,9.56,7.43,manual,hi
+141051_W1,JRDWIND_1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+141052_W2,JRDWIND_2_W2,,,Wind,Wind,Operating,,,,,,,manual,lo
+150981_W1,KEECHI_U1_W1,Keechi Wind Project,KW1,Wind,Wind,Operating,110,110,0,1.83,17.54,0,manual,hi
+131451_W1,KEO_KEO_SM1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+131455_W1,KEO_SHRBINO2_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+130831_W1,KING__KINGNE_W1,King Mountain Wind Ranch,EXIS,Wind,Wind,Operating,278,278,0,2.36,16.25,0,manual,hi
+130731_W1,KING__KINGNW_W1,King Mountain Wind Ranch,,Wind,Wind,Operating,,,,,,,manual,lo
+130931_W1,KING__KINGSE_W1,King Mountain Wind Ranch,,Wind,Wind,Operating,,,,,,,manual,lo
+130631_W1,KING__KINGSW_W1,King Mountain Wind Ranch,,Wind,Wind,Operating,,,,,,,manual,lo
+140071_C1,KMCHI_1CT101_C1,Kiamichi Energy Facility,CTG1,Natural Gas,Combined Cycle,Operating,79.1,79.1,24.25,1.01,9.72,7.56,manual,hi
+140072_C2,KMCHI_1CT201_C2,Kiamichi Energy Facility,CTG2,Natural Gas,Combined Cycle,Operating,79.1,79.1,24.25,1.01,9.72,7.56,manual,hi
+140073_C0,KMCHI_1ST_C0,Kiamichi Energy Facility,STG1,Natural Gas,Combined Cycle,Operating,136.4,136.4,24.25,1.01,9.72,7.56,manual,hi
+140074_C4,KMCHI_2CT101_C4,Kiamichi Energy Facility,CTG3,Natural Gas,Combined Cycle,Operating,79.1,79.1,24.25,1.01,9.72,7.56,manual,hi
+140075_C5,KMCHI_2CT201_C5,Kiamichi Energy Facility,CTG4,Natural Gas,Combined Cycle,Operating,79.1,79.1,24.25,1.01,9.72,7.56,manual,hi
+140076_C0,KMCHI_2ST_C0,Kiamichi Energy Facility,STG2,Natural Gas,Combined Cycle,Operating,136.4,136.4,24.25,1.01,9.72,7.56,manual,hi
+160161_P1,KOC_KOCHUPG1_P1,Koch Refining - Corpus Christi,FR6,Natural Gas,Combustion Turbine,Operating,32,32,14.32,1.5,6.93,4.49,manual,hi
+109003_EQ,LAR_BL_LAR03_EQ,,,Wind,Wind,Operating,,,,,,,manual,lo
+160000_EQ,LARD_VFT_GEN_EQ,Laredo CT,,Natural Gas,Combustion Turbine,Operating,,,,,,,manual,lo
+160002_N4,LARDVFTN_G4_N4,Laredo CT,4,Natural Gas,Combustion Turbine,Operating,90.1,90.1,32.39,2.97,3.79,9.77,manual,hi
+160003_N5,LARDVFTN_G5_N5,Laredo CT,5,Natural Gas,Combustion Turbine,Operating,87.3,87.3,33.29,2.97,3.79,10.05,manual,hi
+150101_L1,LEG_LEG_G1_L1,Limestone,1,Coal,Steam Turbine,Operating,831,831,21.84,2.72,28.05,10.67,manual,hi
+150102_L2,LEG_LEG_G2_L2,Limestone,2,Coal,Steam Turbine,Operating,858,858,21.55,2.72,28.05,10.53,manual,hi
+170063_L1,LEON__LCPCT1_L1,Leon Creek Peaker,CGT1,Natural Gas,Combustion Turbine,Operating,46,46,35.7,3.25,3.92,10.95,manual,hi
+170064_L2,LEON__LCPCT2_L2,Leon Creek Peaker,CGT2,Natural Gas,Combustion Turbine,Operating,46,46,37.65,3.25,3.92,11.55,manual,hi
+170065_L3,LEON__LCPCT3_L3,Leon Creek Peaker,CGT3,Natural Gas,Combustion Turbine,Operating,44,44,36.66,3.25,3.92,11.25,manual,hi
+170066_L4,LEON__LCPCT4_L4,Leon Creek Peaker,CGT4,Natural Gas,Combustion Turbine,Operating,46,46,32.36,3.25,3.92,9.93,manual,hi
+181251_W1,LGD_LANGFORD_W1,Langford Wind,1,Wind,Wind,Operating,150,150,0,1.93,18.35,0,manual,hi
+160201_PE,LGE_LGE_GT1_PE,,,Natural Gas,Combined Cycle,,,,,,,,manual,lo
+160202_PE,LGE_LGE_GT2_PE,,,Natural Gas,Combined Cycle,,,,,,,,manual,lo
+160203_PE,LGE_LGE_STG_PE,,,Natural Gas,Combined Cycle,,,,,,,,manual,lo
+151031_W1,LGW_UNIT1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+151032_W2,LGW_UNIT2_W2,,,Wind,Wind,Operating,,,,,,,manual,lo
+150092_N2,LH2SES_UNIT2_N2,Lake Hubbard,2,Natural Gas,Steam Turbine,Operating,523,523,36.5,21.32,11.78,11.54,manual,hi
+110701_PE,LHM_CVC_G4_PE,,,Wind,Wind,Operating,,,,,,,manual,lo
+140851_W1,LHORNN_UNIT1_W1,Longhorn North Wind Project,GEN1,Wind,Wind,Operating,200,200,0,1.95,13.82,0,manual,hi
+140852_W2,LHORNN_UNIT2_W2,Longhorn North Wind Project,,Wind,Wind,Operating,,,,,,,manual,lo
+150091_N1,LHSES_UNIT1_N1,Lake Hubbard,1,Natural Gas,Steam Turbine,Operating,392,392,38.47,21.32,11.78,12.16,manual,hi
+132881_S1,LMESASLR_G1_S1,Lamesa Solar Plant (Lmesaslr),LSPV1,Solar,Solar,Operating,100,100,0,0,28.3,0,manual,hi
+150211_W1,LNCRK_G83_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+150311_W1,LNCRK2_G871_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+150312_W2,LNCRK2_G872_W2,,,Wind,Wind,Operating,,,,,,,manual,lo
+181151_W1,LONEWOLF_G1_W1,Loraine Windpower Park,LWG1,Wind,Wind,Operating,100.5,100.5,0,1.95,18.19,0,manual,hi
+181151_W3,LONEWOLF_G1_W3,Loraine Windpower Park,LWG1,Wind,Wind,Operating,100.5,100.5,0,1.95,18.19,0,manual,hi
+181152_W2,LONEWOLF_G2_W2,Loraine Windpower Park,LWG2,Wind,Wind,Operating,49.5,49.5,0,1.95,18.19,0,manual,hi
+181152_W4,LONEWOLF_G2_W4,Loraine Windpower Park,LWG2,Wind,Wind,Operating,49.5,49.5,0,1.95,18.19,0,manual,hi
+170171_C1,LOS_LOSTPGT1_C1,Lost Pines 1,CTA,Natural Gas,Combined Cycle,Operating,169,169,22.2,1.28,11.14,7.36,manual,hi
+170172_C2,LOS_LOSTPGT2_C2,Lost Pines 1,CTB,Natural Gas,Combined Cycle,Operating,169,169,22.2,1.28,11.14,7.36,manual,hi
+170173_C0,LOS_LOSTPST1_C0,Lost Pines 1,ST,Natural Gas,Combined Cycle,Operating,172,172,22.2,1.28,11.14,7.36,manual,hi
+140061_C1,LPCCS_CT11_C1,Lamar Power,CTG1,Natural Gas,Combined Cycle,Operating,163,163,22.51,0.77,9.99,7.11,manual,hi
+140062_C2,LPCCS_CT12_C2,Lamar Power,CTG2,Natural Gas,Combined Cycle,Operating,163,163,22.51,0.77,9.99,7.11,manual,hi
+140064_C4,LPCCS_CT21_C4,Lamar Power,CTG3,Natural Gas,Combined Cycle,Operating,163,163,22.51,0.77,9.99,7.11,manual,hi
+140065_C5,LPCCS_CT22_C5,Lamar Power,CTG4,Natural Gas,Combined Cycle,Operating,163,163,22.51,0.77,9.99,7.11,manual,hi
+140063_C0,LPCCS_UNIT1_C0,Lamar Power,STG1,Natural Gas,Combined Cycle,Operating,200.6,200.6,22.51,0.77,9.99,7.11,manual,hi
+140066_C0,LPCCS_UNIT2_C0,Lamar Power,STG2,Natural Gas,Combined Cycle,Operating,200.6,200.6,22.51,0.77,9.99,7.11,manual,hi
+160741_W1,LV1_LV1A_W1,Los Vientos Wind 1A,1,Wind,Wind,Operating,200,200,0,2,14.61,0,manual,hi
+160742_W2,LV1_LV1B_W2,Los Vientos Wind 1B,1,Wind,Wind,Operating,201.6,201.6,0,2.02,14.6,0,manual,hi
+160881_W1,LV3_UNIT1_W1,Los Vientos III Wind Project,GEN1,Wind,Wind,Operating,200,200,0,1.97,13.82,0,manual,hi
+161551_W1,LV4_UNIT1_W1,Los Vientos 4 Wind Project,GEN1,Wind,Wind,Operating,200,200,0,1.96,13.55,0,manual,hi
+161201_W1,LV5_UNIT_1_W1,Los Vientos V Wind Project,1,Wind,Wind,Operating,110,110,0,1.83,17.54,0,manual,hi
+170051_H1,MAR_MARBFAG1_H1,Starcke Dam (Marble Falls),1,Water,Hydro,Operating,19.8,19.8,0,51.84,12.85,0,manual,hi
+170052_H2,MAR_MARBFAG2_H2,Starcke Dam (Marble Falls),2,Water,Hydro,Operating,19.8,19.8,0,51.84,12.85,0,manual,hi
+170031_H1,MAR_MARSFOG1_H1,Mansfield Dam (Marshall Ford Dam),1,Water,Hydro,Operating,36,36,0,10.88,9.15,0,manual,hi
+170032_H2,MAR_MARSFOG2_H2,Mansfield Dam (Marshall Ford Dam),2,Water,Hydro,Operating,36,36,0,10.88,9.15,0,manual,hi
+170033_H3,MAR_MARSFOG3_H3,Mansfield Dam (Marshall Ford Dam),3,Water,Hydro,Operating,36,36,0,10.88,9.15,0,manual,hi
+141761_W1,MARIAH_W1_W1,Mariah North (Renewable Energy Center Phase 1),01-Mar,Wind,Wind,Operating,230.4,230.4,0,1.79,17.22,0,manual,hi
+141762_W2,MARIAH_W2_W2,Mariah North (Renewable Energy Center Phase 1),,Wind,Wind,Operating,,,,,,,manual,lo
+131141_W1,MCDLD_FCW1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+131142_W2,MCDLD_SBW1_W2,,,Wind,Wind,Operating,,,,,,,manual,lo
+150021_N6,MCSES_UNIT6_N6,Mountain Creek,6,Natural Gas,Steam Turbine,Operating,122,122,42.76,20.82,12.56,13.51,manual,hi
+150022_N7,MCSES_UNIT7_N7,Mountain Creek,7,Natural Gas,Steam Turbine,Operating,118,118,42.06,20.82,12.56,13.29,manual,hi
+150023_N8,MCSES_UNIT8_N8,Mountain Creek,8,Natural Gas,Steam Turbine,Operating,568,568,39.03,20.82,12.56,12.33,manual,hi
+150151_N1,MDANP_CT1_N1,Midlothian Energy Project,STK1,Natural Gas,Combined Cycle,Operating,245,245,24.27,1.14,9.75,7.67,manual,hi
+150152_N2,MDANP_CT2_N2,Midlothian Energy Project,STK2,Natural Gas,Combined Cycle,Operating,245,245,24.27,1.14,9.75,7.67,manual,hi
+150153_N3,MDANP_CT3_N3,Midlothian Energy Project,STK3,Natural Gas,Combined Cycle,Operating,245,245,24.27,1.14,9.75,7.67,manual,hi
+150154_N4,MDANP_CT4_N4,Midlothian Energy Project,STK4,Natural Gas,Combined Cycle,Operating,243,243,24.27,1.14,9.75,7.67,manual,hi
+150155_N5,MDANP_CT5_N5,Midlothian Energy Project,STK5,Natural Gas,Combined Cycle,Operating,256,256,24.27,1.14,9.75,7.67,manual,hi
+150156_N6,MDANP_CT6_N6,Midlothian Energy Project,STK6,Natural Gas,Combined Cycle,Operating,260,260,24.27,1.14,9.75,7.67,manual,hi
+181551_W1,MESQCRK_WND1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+181552_W2,MESQCRK_WND2_W2,,,Wind,Wind,Operating,,,,,,,manual,lo
+180031_N1,MGSES_CT1_N1,Morgan Creek CT,CT1,Natural Gas,Combustion Turbine,Operating,68,68,36.6,138.89,3.86,16.66,manual,hi
+180032_N2,MGSES_CT2_N2,Morgan Creek CT,CT2,Natural Gas,Combustion Turbine,Operating,68,68,32.48,138.89,3.86,14.78,manual,hi
+180033_N3,MGSES_CT3_N3,Morgan Creek CT,CT3,Natural Gas,Combustion Turbine,Operating,68,68,51.56,138.89,3.86,23.46,manual,hi
+180034_N4,MGSES_CT4_N4,Morgan Creek CT,CT4,Natural Gas,Combustion Turbine,Operating,68,68,34.44,138.89,3.86,15.67,manual,hi
+180035_N5,MGSES_CT5_N5,Morgan Creek CT,CT5,Natural Gas,Combustion Turbine,Operating,68,68,36.63,138.89,3.86,16.67,manual,hi
+180036_N6,MGSES_CT6_N6,Morgan Creek CT,CT6,Natural Gas,Combustion Turbine,Operating,67,67,41.35,138.89,3.86,18.82,manual,hi
+140471_W1,MIAMI_G1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+140472_W1,MIAMI_G2_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+150131_N1,MIL_MILLERG1_N1,R.W. Miller,1,Natural Gas,Steam Turbine,Operating,66,66,43.35,8.32,14.46,13.88,manual,hi
+150132_N2,MIL_MILLERG2_N2,R.W. Miller,2,Natural Gas,Steam Turbine,Operating,100,100,37.85,8.32,14.46,12.12,manual,hi
+150133_N3,MIL_MILLERG3_N3,R.W. Miller,3,Natural Gas,Steam Turbine,Operating,200,200,39.22,8.32,14.46,12.55,manual,hi
+150134_N4,MIL_MILLERG4_N4,R.W. Miller CT,4,Natural Gas,Combustion Turbine,Operating,104,104,50.12,3.05,3.77,15.44,manual,hi
+150135_N5,MIL_MILLERG5_N5,R.W. Miller CT,5,Natural Gas,Combustion Turbine,Operating,104,104,48.56,3.05,3.77,14.96,manual,hi
+111161_1,MIRAGE_G1_1,,,Solar,Solar,Operating,,,,,,,manual,lo
+161701_W1,MIRASOLE_W1_W1,,,Solar,Solar,Operating,,,,,,,manual,lo
+161701_W2,MIRASOLE_W1_W2,,,Solar,Solar,Operating,,,,,,,manual,lo
+161702_W3,MIRASOLE_W3_W3,,,Solar,Solar,Operating,,,,,,,manual,lo
+120041_L1,MLSES_UNIT1_L1,Martin Lake,1,Coal,Steam Turbine,Operating,800,800,16.99,2.69,28.11,11.25,manual,hi
+120042_L2,MLSES_UNIT2_L2,Martin Lake,2,Coal,Steam Turbine,Operating,805,805,16.74,2.69,28.11,11.08,manual,hi
+120043_L3,MLSES_UNIT3_L3,Martin Lake,3,Coal,Steam Turbine,Operating,805,805,16.93,2.69,28.11,11.21,manual,hi
+140331_W1,MOZART_WIND1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+110561_PE,MSN_110561_PE,,,Wind,Wind,Operating,,,,,,,manual,lo
+140181_W1,MWEC_G1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+111201_P1,NA_GT1_P1,,,Natural Gas,Combined Cycle,Operating,,,,,,,manual,lo
+111202_P2,NA_GT2_P2,,,Natural Gas,Combined Cycle,Operating,,,,,,,manual,lo
+111203_P3,NA_ST1_P3,,,Natural Gas,Combined Cycle,Operating,,,,,,,manual,lo
+120161_R1,NACPW_UNIT1_R1,,,Wind,Wind,Operating,,,,,,,manual,lo
+110331_P1,NCA_NCARBIG1_P1,,,Solar,Solar,Operating,,,,,,,manual,lo
+110331_P5,NCA_NCARBIG1_P5,,,Solar,Solar,Operating,,,,,,,manual,lo
+110332_P2,NCA_NCARBIG2_P2,,,Solar,Solar,Operating,,,,,,,manual,lo
+110332_P7,NCA_NCARBIG2_P7,,,Solar,Solar,Operating,,,,,,,manual,lo
+110334_P3,NCA_NCARBIG3_P3,,,Solar,Solar,Operating,,,,,,,manual,lo
+110333_P6,NCA_NCARBIG6_P6,,,Solar,Solar,Operating,,,,,,,manual,lo
+110335_P8,NCA_NCARBIG8_P8,,,Solar,Solar,Operating,,,,,,,manual,lo
+160231_C1,NED_NEDIN_G1_C1,Magic Valley Generating Station,CTG1,Natural Gas,Combined Cycle,Operating,221,221,24.13,1.09,10.48,7.29,manual,hi
+160232_C2,NED_NEDIN_G2_C2,Magic Valley Generating Station,CTG2,Natural Gas,Combined Cycle,Operating,221,221,24.13,1.09,10.48,7.29,manual,hi
+160233_C0,NED_NEDIN_G3_C0,Magic Valley Generating Station,STG,Natural Gas,Combined Cycle,Operating,240,240,24.13,1.09,10.48,7.29,manual,hi
+160091_C0,NUE_NUECESG7_C0,Nueces Bay Repower,7,Natural Gas,Combined Cycle,Operating,319,319,24.12,1.26,9.76,7.55,manual,hi
+160092_C8,NUE_NUECESG8_C8,Nueces Bay Repower,8,Natural Gas,Combined Cycle,Operating,157,157,24.12,1.26,9.76,7.55,manual,hi
+160093_C9,NUE_NUECESG9_C9,Nueces Bay Repower,9,Natural Gas,Combined Cycle,Operating,157,157,24.12,1.26,9.76,7.55,manual,hi
+131851_BT,NWF_NWF1_BT,Notrees Windpower,VESTA,Wind,Wind,Operating,92.5,92.5,0,2.08,16.14,0,manual,hi
+131851_W1,NWF_NWF1_W1,Notrees Windpower,VESTA,Wind,Wind,Operating,92.5,92.5,0,2.08,16.14,0,manual,hi
+131851_W2,NWF_NWF1_W2,Notrees Windpower,VESTA,Wind,Wind,Operating,92.5,92.5,0,2.08,16.14,0,manual,hi
+170381_BT,OCI_ALM1_G1_BT,,,Solar,Solar,Operating,,,,,,,manual,lo
+170381_S1,OCI_ALM1_G1_S1,,,Solar,Solar,Operating,,,,,,,manual,lo
+130321_C1,OECCS_CT11_C1,Odessa-Ector Power Project,CTG1,Natural Gas,Combined Cycle,Operating,149,149,16.46,0.7,10.06,7.16,manual,hi
+130322_C2,OECCS_CT12_C2,Odessa-Ector Power Project,CTG2,Natural Gas,Combined Cycle,Operating,143,143,16.46,0.7,10.06,7.16,manual,hi
+130324_C1,OECCS_CT21_C1,Odessa-Ector Power Project,CTG3,Natural Gas,Combined Cycle,Operating,145.3,145.3,16.46,0.7,10.06,7.16,manual,hi
+130325_C2,OECCS_CT22_C2,Odessa-Ector Power Project,CTG4,Natural Gas,Combined Cycle,Operating,143.7,143.7,16.46,0.7,10.06,7.16,manual,hi
+130323_C0,OECCS_UNIT1_C0,Odessa-Ector Power Project,STG1,Natural Gas,Combined Cycle,Operating,204.9,204.9,16.46,0.7,10.06,7.16,manual,hi
+130326_C0,OECCS_UNIT2_C0,Odessa-Ector Power Project,STG2,Natural Gas,Combined Cycle,Operating,204.9,204.9,16.46,0.7,10.06,7.16,manual,hi
+120131_L1,OGSES_UNIT1A_L1,Oak Grove Project,OG1,Coal,Steam Turbine,Operating,840,840,54.49,2.31,28.36,10.2,manual,hi
+120132_L2,OGSES_UNIT2_L2,Oak Grove Project,OG2,Coal,Steam Turbine,Operating,825,825,54.78,2.31,28.36,10.26,manual,hi
+140031_PE,OKLA_OKLA_G1_PE,Oklaunion,1,Coal,Steam Turbine,Operating,472.29,472.29,23.23,4.54,26.81,10.46,manual,hi
+150081_N1,OLIN_OLING_1_N1,Ray Olinger,1,Natural Gas,Steam Turbine,Operating,75,75,68.81,3.07,11.69,21.74,manual,hi
+150082_N2,OLIN_OLING_2_N2,Ray Olinger,2,Natural Gas,Steam Turbine,Operating,107,107,49.91,3.07,11.69,15.77,manual,hi
+150083_N3,OLIN_OLING_3_N3,Ray Olinger,3,Natural Gas,Steam Turbine,Operating,138,138,40.23,3.07,11.69,12.71,manual,hi
+150084_N4,OLIN_OLING_4_N4,Ray Olinger CT,4,Natural Gas,Combustion Turbine,Operating,75,75,9.49,81.31,4.6,3,manual,hi
+40426_B1,OPNDAY__BL_8_B1,,,Wind,Wind,Operating,,,,,,,manual,lo
+131551_W1,OWF_OWF_W1,Ocotillo Wind Farm,OWF,Wind,Wind,Operating,58.8,58.8,0,2.4,20.65,0,manual,hi
+160211_PE,OXY_OXY_CCG1_PE,,,Wind,Wind,Operating,,,,,,,manual,lo
+160391_W1,PAP1_PAP1_W1,Papalote Creek Wind Facility,1,Wind,Wind,Operating,180,180,0,1.93,18.14,0,manual,hi
+130011_N1,PB2SES_CT1_N1,Permian Basin CT,CT1,Natural Gas,Combustion Turbine,Operating,68,68,33.92,16.07,3.96,14.76,manual,hi
+130012_N2,PB2SES_CT2_N2,Permian Basin CT,CT2,Natural Gas,Combustion Turbine,Operating,65,65,34.15,16.07,3.96,14.85,manual,hi
+130013_N3,PB2SES_CT3_N3,Permian Basin CT,CT3,Natural Gas,Combustion Turbine,Operating,68,68,37.65,16.07,3.96,16.38,manual,hi
+130014_N4,PB2SES_CT4_N4,Permian Basin CT,CT4,Natural Gas,Combustion Turbine,Operating,69,69,34.72,16.07,3.96,15.1,manual,hi
+130015_N5,PB2SES_CT5_N5,Permian Basin CT,CT5,Natural Gas,Combustion Turbine,Operating,70,70,33.03,16.07,3.96,14.37,manual,hi
+131351_W1,PC__PANTHER1_W1,Panther Creek Wind Farm I (Panther Creek - Airtricity),1,Wind,Wind,Operating,142.5,142.5,0,1.95,18.41,0,manual,hi
+131751_W2,PC__PANTHER2_W2,Panther Creek Wind Farm  II (EC&R Panther Creek II),1,Wind,Wind,Operating,115.5,115.5,0,2.02,18.92,0,manual,hi
+131752_W3,PC__PANTHER3_W3,Panther Creek Wind III,1,Wind,Wind,Operating,199.5,199.5,0,1.91,18.04,0,manual,hi
+160075_N2,PEARSA_ENG10_N2,Pearsall IC,10A,Natural Gas,Internal Combustion,Operating,8.4,8.4,31.7,11.43,17.46,9.57,manual,hi
+160076_N3,PEARSA_ENG13_N3,Pearsall IC,13A,Natural Gas,Internal Combustion,Operating,8.4,8.4,31.7,11.43,17.46,9.57,manual,hi
+160077_N4,PEARSA_ENG19_N4,Pearsall IC,9A,Natural Gas,Internal Combustion,Operating,8.4,8.4,31.7,11.43,17.46,9.57,manual,hi
+160074_N1,PEARSAL_ENG1_N1,Pearsall IC,1A,Natural Gas,Internal Combustion,Operating,8.4,8.4,31.7,11.43,17.46,9.57,manual,hi
+160291_W1,PENA_UNIT1_W1,Penascal Wind Power (Baffin),1,Wind,Wind,Operating,201.6,201.6,0,2.03,15.38,0,manual,hi
+160292_W2,PENA_UNIT2_W2,Penascal II Wind Farm (Baffin),1,Wind,Wind,Operating,201,201,0,2.04,15.12,0,manual,hi
+160293_W3,PENA_UNIT3_W3,Penascal III Wind Project (Baffin),1,Wind,Wind,Operating,188,188,0,1.81,17.36,0,manual,hi
+140501_W1,PH1_UNIT1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+140502_W2,PH1_UNIT2_W2,,,Wind,Wind,Operating,,,,,,,manual,lo
+140601_W1,PH2_UNIT1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+140602_W2,PH2_UNIT2_W2,,,Wind,Wind,Operating,,,,,,,manual,lo
+110921_P1,PR_PR_G2_P1,,,Solar,Solar,Operating,,,,,,,manual,lo
+110571_PE,PSA_PSA_G1_PE,,,Natural Gas,Combined Cycle,,,,,,,,manual,lo
+110572_PE,PSA_PSA_G2_PE,,,Natural Gas,Combined Cycle,,,,,,,,manual,lo
+110573_PE,PSA_PSA_G3_PE,,,Natural Gas,Combined Cycle,,,,,,,,manual,lo
+110574_PE,PSA_PSA_G4_PE,,,Natural Gas,Combined Cycle,,,,,,,,manual,lo
+110575_PE,PSA_PSA_G5_PE,,,Natural Gas,Combined Cycle,,,,,,,,manual,lo
+110576_PE,PSA_PSA_G6_PE,,,Natural Gas,Combined Cycle,,,,,,,,manual,lo
+110577_PE,PSA_PSA_G7_PE,,,Natural Gas,Combined Cycle,,,,,,,,manual,lo
+110621_C2,PSG_PSG_GT2_C2,Pasadena Cogeneration Power Plant,CTG2,Natural Gas,Combined Cycle,Operating,165,165,23.74,1.06,10.64,7.12,manual,hi
+110622_C3,PSG_PSG_GT3_C3,Pasadena Cogeneration Power Plant,CTG3,Natural Gas,Combined Cycle,Operating,165,165,23.74,1.06,10.64,7.12,manual,hi
+110623_C0,PSG_PSG_ST2_C0,Pasadena Cogeneration Power Plant,STG2,Natural Gas,Combined Cycle,Operating,165,165,23.74,1.06,10.64,7.12,manual,hi
+140004_C2,PSHRM_CT1_C2,Panda Sherman Generating Station,CTG-1,Natural Gas,Combined Cycle,Operating,204,204,23.06,0.86,9.25,7.19,manual,hi
+140003_C1,PSHRM_CT2_C1,Panda Sherman Generating Station,CTG-2,Natural Gas,Combined Cycle,Operating,204,204,23.06,0.86,9.25,7.19,manual,hi
+140005_C0,PSHRM_ST1_C0,Panda Sherman Generating Station,STG-1,Natural Gas,Combined Cycle,Operating,309,309,23.06,0.86,9.25,7.19,manual,hi
+150901_C1,PTMPL_CT1_C1,Panda Temple Facility,CTG-1,Natural Gas,Combined Cycle,Operating,211,211,24.65,1.05,9.07,7.24,manual,hi
+150902_C2,PTMPL_CT2_C2,Panda Temple Facility,CTG-2,Natural Gas,Combined Cycle,Operating,211,211,24.65,1.05,9.07,7.24,manual,hi
+150903_C0,PTMPL_ST1_C0,Panda Temple Facility,STG-1,Natural Gas,Combined Cycle,Operating,312,312,24.65,1.05,9.07,7.24,manual,hi
+150904_C1,PTMPL2_CT1_C1,Panda Temple Facility,CTG-3,Natural Gas,Combined Cycle,Operating,211,211,24.65,1.05,9.07,7.24,manual,hi
+150905_C2,PTMPL2_CT2_C2,Panda Temple Facility,CTG-4,Natural Gas,Combined Cycle,Operating,211,211,24.65,1.05,9.07,7.24,manual,hi
+150906_C0,PTMPL2_ST1_C0,Panda Temple Facility,STG-2,Natural Gas,Combined Cycle,Operating,312,312,24.65,1.05,9.07,7.24,manual,hi
+180960_W1,PYR_PYRON1_W1,Pyron Wind Farm (Roscoe Phase 3),1,Wind,Wind,Operating,249,249,0,2.02,14.93,0,manual,hi
+181031_BT,PYR_PYRON2_BT,Pyron Wind Farm (Roscoe Phase 3),,Wind,Wind,Operating,,,,,,,manual,lo
+181031_W2,PYR_PYRON2_W2,Pyron Wind Farm (Roscoe Phase 3),,Wind,Wind,Operating,,,,,,,manual,lo
+131241_C1,QALSW_GT1_C1,Quail Run,CT1A,Natural Gas,Combined Cycle,Operating,70,70,19.87,4.24,10.38,8.64,manual,hi
+131242_C2,QALSW_GT2_C2,Quail Run,CT1B,Natural Gas,Combined Cycle,Operating,70,70,19.87,4.24,10.38,8.64,manual,hi
+131244_C3,QALSW_GT3_C3,Quail Run,CT2A,Natural Gas,Combined Cycle,Operating,68,68,19.87,4.24,10.38,8.64,manual,hi
+131245_C4,QALSW_GT4_C4,Quail Run,CT2B,Natural Gas,Combined Cycle,Operating,68,68,19.87,4.24,10.38,8.64,manual,hi
+131243_C0,QALSW_STG1_C0,Quail Run,ST1,Natural Gas,Combined Cycle,Operating,98.1,98.1,19.87,4.24,10.38,8.64,manual,hi
+131246_C0,QALSW_STG2_C0,Quail Run,ST2,Natural Gas,Combined Cycle,Operating,98.1,98.1,19.87,4.24,10.38,8.64,manual,hi
+110037_C0,RA_RAYBURG10_C0,Sam Rayburn CC,10,Natural Gas,Combined Cycle,Operating,37,37,34.3,8.6,14.29,10.52,manual,hi
+110031_N1,RAY_RAYBURG1_N1,Sam Rayburn A,1,Natural Gas,Combustion Turbine,Operating,10.5,10.5,205.89,218.64,14.29,63.16,manual,hi
+110032_N2,RAY_RAYBURG2_N2,Sam Rayburn A,2,Natural Gas,Combustion Turbine,Operating,11.5,11.5,205.89,218.64,14.29,63.16,manual,hi
+110034_C7,RAY_RAYBURG7_C7,Sam Rayburn CC,7,Natural Gas,Combined Cycle,Operating,49,49,34.3,8.6,14.29,10.52,manual,hi
+110035_C8,RAY_RAYBURG8_C8,Sam Rayburn CC,8,Natural Gas,Combined Cycle,Operating,49,49,34.3,8.6,14.29,10.52,manual,hi
+110036_C9,RAY_RAYBURG9_C9,Sam Rayburn CC,9,Natural Gas,Combined Cycle,Operating,48,48,34.3,8.6,14.29,10.52,manual,hi
+181751_W1,RCKSP_WIND1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+181752_W2,RCKSP_WIND2_W2,,,Wind,Wind,Operating,,,,,,,manual,lo
+180551_W1,RDCAN_RDCNY1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+160691_W1,REDFISH_G1_W1,Magic Valley Wind Farm I - Redfish,MV1,Wind,Wind,Operating,203,203,0,1.99,14.58,0,manual,hi
+160693_W2,REDFISH_G2_W2,Bruenning's Breeze (Magic Valley II) (Redfish) (Bbreeze),MVII,Wind,Wind,Operating,228,228,0,1.97,13.26,0,manual,hi
+161032_N1,REDGATE_G1_N1,Red Gate Peaker Power Plant,ENG01,Natural Gas,Internal Combustion,Operating,18.3,18.3,41.56,11.18,18.61,8.99,manual,hi
+161033_N2,REDGATE_G2_N2,Red Gate Peaker Power Plant,ENG02,Natural Gas,Internal Combustion,Operating,18.3,18.3,41.56,11.18,18.61,8.99,manual,hi
+161034_N3,REDGATE_G3_N3,Red Gate Peaker Power Plant,ENG03,Natural Gas,Internal Combustion,Operating,18.3,18.3,41.56,11.18,18.61,8.99,manual,hi
+161035_N4,REDGATE_G4_N4,Red Gate Peaker Power Plant,ENG04,Natural Gas,Internal Combustion,Operating,18.3,18.3,41.56,11.18,18.61,8.99,manual,hi
+132332_S1,REROCK_UNIT1_S1,,,Solar,Solar,Operating,,,,,,,manual,lo
+132333_S2,REROCK_UNIT2_S2,,,Solar,Solar,Operating,,,,,,,manual,lo
+132481_S1,RIGGINS_S1_S1,Riggins Solar Project (Buckthorn Westex),BKTH1,Solar,Solar,Operating,154,154,0,0,28.3,0,manual,hi
+170201_C1,RIONOG_CT1_C1,Rio Nogales Power Project,CTG1,Natural Gas,Combined Cycle,Operating,154,154,23.44,1.26,10.24,7.34,manual,hi
+170202_C2,RIONOG_CT2_C2,Rio Nogales Power Project,CTG2,Natural Gas,Combined Cycle,Operating,154,154,23.44,1.26,10.24,7.34,manual,hi
+170203_C3,RIONOG_CT3_C3,Rio Nogales Power Project,CTG3,Natural Gas,Combined Cycle,Operating,154,154,23.44,1.26,10.24,7.34,manual,hi
+170204_C0,RIONOG_ST1_C0,Rio Nogales Power Project,STG1,Natural Gas,Combined Cycle,Operating,323,323,23.44,1.26,10.24,7.34,manual,hi
+111101_PE,RNPCOGEN_1_PE,,,Natural Gas,Combined Cycle,,,,,,,,manual,lo
+902542_W2,ROSCOE2A_W2,,,Wind,Wind,Operating,,,,,,,manual,lo
+132211_W1,RSNAKE_G1_W1,Rattlesnake Den Wind Farm,1,Wind,Wind,Operating,207.2,207.2,0,1.96,13.79,0,manual,hi
+132212_W2,RSNAKE_G2_W2,RTS Wind Power Project (Rattlesnake Wind Project),WT1,Wind,Wind,Operating,160,160,0,1.98,38.98,0,manual,hi
+141151_W1,RT66_WIND1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+182052_W1,RTS_34_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+141861_W1,SALT_UNIT1_W1,Salt Fork Wind Ranch Project,GEN1,Wind,Wind,Operating,174,174,0,1.94,13.63,0,manual,hi
+141862_W2,SALT_UNIT2_W2,RTS Wind Power Project (Rattlesnake Wind Project),,Wind,Wind,Operating,,,,,,,manual,lo
+142061_1,SALVTION_W1_1,Willow Springs Windfarm (SALVTION),WSPWF,Wind,Wind,Operating,250,250,0,1.94,13.24,0,manual,hi
+142111_2,SALVTION_W2_2,Willow Springs Windfarm (SALVTION),,Wind,Wind,Operating,,,,,,,manual,lo
+160131_L1,SAN_SANMIGG1_L1,San Miguel,1,Coal,Steam Turbine,Operating,391,391,31.61,2.88,26.51,12.36,manual,hi
+170215_C5,SANDHS_SH_5A_C5,Sand Hill Energy Center CC,5A,Natural Gas,Combined Cycle,Operating,161,161,28.56,1.51,11.8,7.92,manual,hi
+170216_C0,SANDHS_SH_5C_C0,Sand Hill Energy Center CC,5C,Natural Gas,Combined Cycle,Operating,151,151,28.56,1.51,11.8,7.92,manual,hi
+170211_N1,SANDHSYD_SH1_N1,Sand Hill Energy Center,SH1,Natural Gas,Combustion Turbine,Operating,47.3,47.3,35.68,1.5,3.44,9.89,manual,hi
+170212_N2,SANDHSYD_SH2_N2,Sand Hill Energy Center,SH2,Natural Gas,Combustion Turbine,Operating,47.3,47.3,35.21,1.5,3.44,9.76,manual,hi
+170213_N3,SANDHSYD_SH3_N3,Sand Hill Energy Center,SH3,Natural Gas,Combustion Turbine,Operating,47.3,47.3,34.94,1.5,3.44,9.69,manual,hi
+170214_N4,SANDHSYD_SH4_N4,Sand Hill Energy Center,SH4,Natural Gas,Combustion Turbine,Operating,47.3,47.3,34.73,1.5,3.44,9.63,manual,hi
+170217_N6,SANDHSYD_SH6_N6,Sand Hill Energy Center,SH6,Natural Gas,Combustion Turbine,Operating,47.3,47.3,34.33,1.5,3.44,9.52,manual,hi
+170218_N7,SANDHSYD_SH7_N7,Sand Hill Energy Center,SH7,Natural Gas,Combustion Turbine,Operating,47.3,47.3,34.97,1.5,3.44,9.69,manual,hi
+161602_W1,SANROMAN_W1_W1,San Roman Wind,SRWI,Wind,Wind,Operating,95.3,95.3,0,1.98,14.13,0,manual,hi
+132631_W1,SANTRITA_G1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+132681_W2,SANTRITA_G2_W2,,,Wind,Wind,Operating,,,,,,,manual,lo
+150741_L1,SCES_UNIT1_L1,Sandy Creek,S01,Coal,Steam Turbine,Operating,940,940,20.11,2.38,28.35,9.33,manual,hi
+141001_W1,SCLAY_UNIT1_W1,South Clay Wind Farm (Shannon 1),SHAN1,Wind,Wind,Operating,204,204,0,1.97,13.8,0,manual,hi
+110501_PE,SCLP_SCLPC_1_PE,,,Wind,Wind,Operating,,,,,,,manual,lo
+110502_PE,SCLP_SCLPC_2_PE,,,Wind,Wind,Operating,,,,,,,manual,lo
+110503_PE,SCLP_SCLPC_3_PE,,,Wind,Wind,Operating,,,,,,,manual,lo
+110504_PE,SCLP_SCLPC_4_PE,,,Wind,Wind,Operating,,,,,,,manual,lo
+120141_N1,SCSES_UNIT1A_N1,Stryker Creek,ST1,Natural Gas,Steam Turbine,Operating,167,167,66.71,3.07,11.69,20.79,manual,hi
+120142_N2,SCSES_UNIT2_N2,Stryker Creek,ST2,Natural Gas,Steam Turbine,Operating,502,502,38.65,3.07,11.69,12.05,manual,hi
+130121_W1,SGM_SIGNALMT_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+130121_W2,SGM_SIGNALMT_W2,,,Wind,Wind,Operating,,,,,,,manual,lo
+160274_NA,SIL_SILAS_10_NA,Silas Ray CT,10,Natural Gas,Combustion Turbine,Operating,45,45,45.06,5.11,4.99,13.61,manual,hi
+160272_C0,SILA_SILAS_6_C0,Silas Ray CC,6,Natural Gas,Combined Cycle,Operating,20,20,30.96,8.6,27.59,9.35,manual,hi
+160273_C9,SILA_SILAS_9_C9,Silas Ray CC,9,Natural Gas,Combined Cycle,Operating,42,42,30.96,8.6,27.59,9.35,manual,hi
+132431_S1,SIRIUS_UNIT1_S1,OCI Alamo 4 (Mega Solar Project),,Solar,Solar,Operating,,,,,,,manual,lo
+132436_1,SIRIUS_UNIT2_1,OCI Alamo 6 (West Texas II) (Pearl) (SIRIUS),PEARL,Solar,Solar,Operating,50,50,0,0,28.3,0,manual,hi
+110481_N1,SJS_SJS_G1_N1,,,Wind,Wind,Operating,,,,,,,manual,lo
+110482_N2,SJS_SJS_G2_N2,,,Wind,Wind,Operating,,,,,,,manual,lo
+170401_N1,SKY1_GA_N1,,,Solar,Solar,Operating,,,,,,,manual,lo
+170402_N2,SKY1_GB_N2,,,Solar,Solar,Operating,,,,,,,manual,lo
+110941_PE,SL_SL_G1_PE,,,Wind,Wind,Operating,,,,,,,manual,lo
+110942_PE,SL_SL_G2_PE,,,Wind,Wind,Operating,,,,,,,manual,lo
+110943_PE,SL_SL_G3_PE,,,Wind,Wind,Operating,,,,,,,manual,lo
+110944_PE,SL_SL_G4_PE,,,Wind,Wind,Operating,,,,,,,manual,lo
+141662_S1,SOLARA_UNIT1_S1,Solara Solar Project (OCI Alamo 7),OCIA7,Solar,Solar,Operating,100,100,0,0,28.3,0,manual,hi
+141202_W1,SPLAIN1_G1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+141205_W2,SPLAIN1_G2_W2,,,Wind,Wind,Operating,,,,,,,manual,lo
+141401_W1,SPLAIN2_WND1_W1,South Plains Wind Energy (Floyd County Wind Farm),1,Wind,Wind,Operating,200,200,0,1.95,13.82,0,manual,hi
+141451_W2,SPLAIN2_WND2_W2,South Plains Wind Energy II,SPII,Wind,Wind,Operating,300,300,0,1.95,13.38,0,manual,hi
+150071_N4,SPNC_SPNCE_4_N4,,,Wind,Wind,Operating,,,,,,,manual,lo
+150072_N5,SPNC_SPNCE_5_N5,,,Wind,Wind,Operating,,,,,,,manual,lo
+180441_PE,SPPKM_CTA_PE,,,Natural Gas,Combined Cycle,,,,,,,,manual,lo
+180442_PE,SPPKM_CTB_PE,,,Natural Gas,Combined Cycle,,,,,,,,manual,lo
+180443_PE,SPPKM_STG_PE,,,Natural Gas,Combined Cycle,,,,,,,,manual,lo
+132941_1,SPTX12B_W1_1,,,Wind,Wind,Operating,,,,,,,manual,lo
+140801_W1,SPURTRES_G1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+140802_W2,SPURTRES_G2_W2,,,Wind,Wind,Operating,,,,,,,manual,lo
+110002_N1,SRB_SRB_G1_N1,,,Wind,Wind,Operating,,,,,,,manual,lo
+110001_N2,SRB_SRB_G2_N2,,,Wind,Wind,Operating,,,,,,,manual,lo
+132161_W2,SRWE1_SRWE2_W2,,,Wind,Wind,Operating,,,,,,,manual,lo
+132111_W1,SRWE1_UNIT1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+140441_W1,SSPUR2_WIND_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+150712_N1,STE_ENGINE_1_N1,,,Natural Gas,Internal Combustion,,,,,,,,manual,lo
+150712_N2,STE_ENGINE_1_N2,,,Natural Gas,Internal Combustion,,,,,,,,manual,lo
+150712_N3,STE_ENGINE_1_N3,,,Natural Gas,Internal Combustion,,,,,,,,manual,lo
+150711_N1,STEA_STEAM_1_N1,,,Natural Gas,Internal Combustion,,,,,,,,manual,lo
+150713_N2,STEA_STEAM_2_N2,,,Natural Gas,Internal Combustion,,,,,,,,manual,lo
+150714_N3,STEA_STEAM_3_N3,,,Natural Gas,Internal Combustion,,,,,,,,manual,lo
+110351_U1,STP_STP_G1_U1,South Texas Project,1,Uranium,Nuclear,Operating,"1,280.00","1,280.00",8.37,2.95,95.41,10.4,manual,hi
+110352_U2,STP_STP_G2_U2,South Texas Project,2,Uranium,Nuclear,Operating,"1,280.00","1,280.00",8.37,2.95,95.41,10.4,manual,hi
+180053_W1,STWF_T1_W1,South Trent,1,Wind,Wind,Operating,101.2,101.2,0,2.03,18.94,0,manual,hi
+130221_W1,SW_M_SW_MESA_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+131251_W1,SWEC_G1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+180159_W1,SWEETW_WND4A_W1,Sweetwater 4,SW4A,Wind,Wind,Operating,135,135,0,2.03,15.43,0,manual,hi
+180160_W1,SWEETW_WND4B_W1,Sweetwater 4,SW4B,Wind,Wind,Operating,105.8,105.8,0,2.03,15.43,0,manual,hi
+180151_W1,SWEETWN_WND1_W1,Sweetwater 1,SW1,Wind,Wind,Operating,37.5,37.5,0,3.23,25.73,0,manual,hi
+180153_W1,SWEETWN_WND2_W1,Sweetwater 2,SW2,Wind,Wind,Operating,98.8,98.8,0,2.25,19.92,0,manual,hi
+180153_W2,SWEETWN_WND2_W2,Sweetwater 1,,Wind,Wind,Operating,,,,,,,manual,lo
+180156_W1,SWEETWN_WND3_W1,Sweetwater 3/Cottonwood Creek,SW3,Wind,Wind,Operating,135,135,0,2.08,19.17,0,manual,hi
+180156_W2,SWEETWN_WND3_W2,Sweetwater 1,,Wind,Wind,Operating,,,,,,,manual,lo
+180162_W1,SWEETWN_WND5_W1,Sweetwater 5,SW5,Wind,Wind,Operating,80.5,80.5,0,2.21,19.98,0,manual,hi
+120081_C1,TAM_TAM_GTG1_C1,,,Natural Gas,Combined Cycle,,,,,,,,manual,lo
+120082_C0,TAM_TAM_STG2_C0,,,Natural Gas,Combined Cycle,,,,,,,,manual,lo
+111011_P1,TC_TCHP1_P1,,,Wind,Wind,Operating,,,,,,,manual,lo
+150121_C1,TEN_CT1_C1,,,Natural Gas,Combined Cycle,,,,,,,,manual,lo
+150122_C0,TEN_STG_C0,,,Natural Gas,Combined Cycle,,,,,,,,manual,lo
+120101_C1,TGCCS_CT1_C1,,,Natural Gas,Combined Cycle,,,,,,,,manual,lo
+120102_C2,TGCCS_CT2_C2,,,Natural Gas,Combined Cycle,,,,,,,,manual,lo
+120103_C3,TGCCS_CT3_C3,,,Natural Gas,Combined Cycle,,,,,,,,manual,lo
+120104_C0,TGCCS_UNIT4_C0,,,Natural Gas,Combined Cycle,,,,,,,,manual,lo
+110261_N1,TGF_TGFGT_1_N1,,,Wind,Wind,Operating,,,,,,,manual,lo
+160491_W1,TGW_T1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+160492_W2,TGW_T2_W2,,,Wind,Wind,Operating,,,,,,,manual,lo
+110041_BS,THW_THWGT_1_BS,T.H. Wharton CT,GT1,Natural Gas,Combustion Turbine,Operating,13,13,51.28,8.12,3.92,15.05,manual,hi
+110042_C1,THW_THWGT31_C1,T.H. Wharton,31,Natural Gas,Combined Cycle,Operating,57,57,35.42,8.6,13.84,10.4,manual,hi
+110043_C2,THW_THWGT32_C2,T.H. Wharton,32,Natural Gas,Combined Cycle,Operating,57,57,35.42,8.6,13.84,10.4,manual,hi
+110044_C3,THW_THWGT33_C3,T.H. Wharton,33,Natural Gas,Combined Cycle,Operating,57,57,35.42,8.6,13.84,10.4,manual,hi
+110045_C4,THW_THWGT34_C4,T.H. Wharton,34,Natural Gas,Combined Cycle,Operating,57,57,35.42,8.6,13.84,10.4,manual,hi
+110047_C5,THW_THWGT41_C5,T.H. Wharton,41,Natural Gas,Combined Cycle,Operating,57,57,35.42,8.6,13.84,10.4,manual,hi
+110048_C6,THW_THWGT42_C6,T.H. Wharton,42,Natural Gas,Combined Cycle,Operating,57,57,35.42,8.6,13.84,10.4,manual,hi
+110049_C7,THW_THWGT43_C7,T.H. Wharton,43,Natural Gas,Combined Cycle,Operating,57,57,35.42,8.6,13.84,10.4,manual,hi
+110050_C8,THW_THWGT44_C8,T.H. Wharton,44,Natural Gas,Combined Cycle,Operating,57,57,35.42,8.6,13.84,10.4,manual,hi
+110052_N1,THW_THWGT51_N1,T.H. Wharton CT,51,Natural Gas,Combustion Turbine,Operating,58,58,51.28,8.12,3.92,15.05,manual,hi
+110053_N2,THW_THWGT52_N2,T.H. Wharton CT,52,Natural Gas,Combustion Turbine,Operating,58,58,51.28,8.12,3.92,15.05,manual,hi
+110054_N3,THW_THWGT53_N3,T.H. Wharton CT,53,Natural Gas,Combustion Turbine,Operating,58,58,51.28,8.12,3.92,15.05,manual,hi
+110055_N4,THW_THWGT54_N4,T.H. Wharton CT,54,Natural Gas,Combustion Turbine,Operating,58,58,51.28,8.12,3.92,15.05,manual,hi
+110056_N5,THW_THWGT55_N5,T.H. Wharton CT,55,Natural Gas,Combustion Turbine,Operating,58,58,51.28,8.12,3.92,15.05,manual,hi
+110057_N6,THW_THWGT56_N6,T.H. Wharton CT,56,Natural Gas,Combustion Turbine,Operating,58,58,51.28,8.12,3.92,15.05,manual,hi
+110046_C0,THW_THWST_3_C0,T.H. Wharton,3,Natural Gas,Combined Cycle,Operating,104,104,35.42,8.6,13.84,10.4,manual,hi
+110051_C0,THW_THWST_4_C0,T.H. Wharton,4,Natural Gas,Combined Cycle,Operating,104,104,35.42,8.6,13.84,10.4,manual,hi
+902527_W1,TKWSW_ROSCOE_W1,Roscoe Wind Farm,RO1,Wind,Wind,Operating,209,209,0,2.06,15.55,0,manual,hi
+120071_L1,TNP__TNP_O_1_L1,,,Wind,Wind,Operating,,,,,,,manual,lo
+120072_L2,TNP__TNP_O_2_L2,,,Wind,Wind,Operating,,,,,,,manual,lo
+140051_C1,TNSKA_GT1_C1,Paris Energy Center,GEN1,Natural Gas,Combined Cycle,Operating,78,78,28.54,8.6,16.01,9.02,manual,hi
+140052_C2,TNSKA_GT2_C2,Paris Energy Center,GEN2,Natural Gas,Combined Cycle,Operating,80,80,28.54,8.6,16.01,9.02,manual,hi
+140053_C0,TNSKA_STG_C0,Paris Energy Center,GEN3,Natural Gas,Combined Cycle,Operating,78,78,28.54,8.6,16.01,9.02,manual,hi
+132931_BT,TOSBATT_U1_BT,,,Solar,Solar,Operating,,,,,,,manual,lo
+180051_W1,TRENT_TRENT_W1,Trent Mesa Project,WTG1,Wind,Wind,Operating,150,150,0,2.17,19.58,0,manual,hi
+150751_W1,TRI_TH1_BUS1_W1,Trinity Hills Wind Farm,1,Wind,Wind,Operating,225,225,0,2.05,14.67,0,manual,hi
+150752_W2,TRI_TH1_BUS2_W2,Trinity Hills Wind Farm,,Wind,Wind,Operating,,,,,,,manual,lo
+120151_N6,TRSES_UNIT6_N6,Trinidad,6,Natural Gas,Steam Turbine,Operating,235,235,45.21,3.07,11.69,14.17,manual,hi
+181051_W1,TTWEC_G1_W1,Turkey Track,1,Wind,Wind,Operating,169.5,169.5,0,1.96,18.34,0,manual,hi
+110601_C1,TXCTY_CTA_C1,Texas City,GEN2,Natural Gas,Combined Cycle,Operating,104,104,19.97,3.59,13.47,5.99,manual,hi
+110602_C2,TXCTY_CTB_C2,Texas City,GEN3,Natural Gas,Combined Cycle,Operating,104,104,19.97,3.59,13.47,5.99,manual,hi
+110603_C3,TXCTY_CTC_C3,Texas City,GEN4,Natural Gas,Combined Cycle,Operating,104,104,19.97,3.59,13.47,5.99,manual,hi
+110604_C0,TXCTY_ST_C0,Texas City,GEN1,Natural Gas,Combined Cycle,Operating,139,139,19.97,3.59,13.47,5.99,manual,hi
+142011_W1,TYLRWD_UNIT1_W1,Tyler Bluff Wind Project (Muenster Wind),GEN1,Wind,Wind,Operating,125.6,125.6,0,1.98,13.87,0,manual,hi
+110722_N2,UCC__UCC_C_2_N2,,,Solar,Solar,Operating,,,,,,,manual,lo
+160141_P1,VAL_VALEROG1_P1,Valero Refinery Cogen,TG1,Coal,Steam Turbine,Operating,26.6,26.6,21.14,9.63,17.18,14.11,manual,hi
+160142_P2,VAL_VALEROG2_P2,Valero Refinery Cogen,TG2,Coal,Steam Turbine,Operating,26.6,26.6,21.14,9.63,17.18,14.11,manual,hi
+110881_C5,VIC_VICTORG5_C5,Victoria CC,5,Natural Gas,Combined Cycle,Operating,125,125,25.65,2.55,10.89,7.87,manual,hi
+110882_C0,VIC_VICTORG6_C0,Victoria CC,7,Natural Gas,Combined Cycle,Operating,160,160,25.65,2.55,10.89,7.87,manual,hi
+110861_P1,VISTRON_TG1_P1,,,Solar,Solar,Operating,,,,,,,manual,lo
+110862_P2,VISTRON_TG2_P2,,,Solar,Solar,Operating,,,,,,,manual,lo
+140901_W1,WAKE_UNIT1_W1,Wake Wind Energy Center,1,Wind,Wind,Operating,257,257,0,1.79,17.21,0,manual,hi
+140902_W2,WAKE_UNIT2_W2,Wake Wind Energy Center,,Wind,Wind,Operating,,,,,,,manual,lo
+110020_N1,WAP_GT2_N1,W.A. Parish Carbon Capture Plant,GT2,Natural Gas,Combustion Turbine,Operating,74,74,71.25,1.5,3.78,20.92,manual,hi
+110011_N1,WAP_WAP_G1_N1,W.A. Parish 1-4,1,Natural Gas,Steam Turbine,Operating,169,169,41.46,8.33,11.68,12.17,manual,hi
+110012_N2,WAP_WAP_G2_N2,W.A. Parish 1-4,2,Natural Gas,Steam Turbine,Operating,169,169,47.7,8.33,11.68,14,manual,hi
+110013_N3,WAP_WAP_G3_N3,W.A. Parish 1-4,3,Natural Gas,Steam Turbine,Operating,273,273,42.84,8.33,11.68,12.57,manual,hi
+110014_N4,WAP_WAP_G4_N4,W.A. Parish 1-4,4,Natural Gas,Steam Turbine,Operating,552,552,42.17,8.33,11.68,12.38,manual,hi
+110015_L5,WAP_WAP_G5_L5,W.A. Parish 5-8,5,Coal,Steam Turbine,Operating,659,659,21.97,2.59,28.12,10.09,manual,hi
+110016_L6,WAP_WAP_G6_L6,W.A. Parish 5-8,6,Coal,Steam Turbine,Operating,653,653,22.79,2.59,28.12,10.46,manual,hi
+110017_L7,WAP_WAP_G7_L7,W.A. Parish 5-8,7,Coal,Steam Turbine,Operating,577,577,22.49,2.59,28.12,10.33,manual,hi
+110018_L8,WAP_WAP_G8_L8,W.A. Parish 5-8,8,Coal,Steam Turbine,Operating,610,610,22.44,2.59,28.12,10.3,manual,hi
+110019_BS,WAP_WAPGT_1_BS,W.A. Parish CT,GT1,Natural Gas,Combustion Turbine,Operating,13,13,96.61,236.22,14.63,28.36,manual,hi
+150191_C1,WCPP_CT1_C1,Wise County,GT1,Natural Gas,Combined Cycle,Operating,225,225,24.4,2.97,10.25,7.61,manual,hi
+150192_C2,WCPP_CT2_C2,Wise County,GT2,Natural Gas,Combined Cycle,Operating,225,225,24.4,2.97,10.25,7.61,manual,hi
+150193_C0,WCPP_ST1_C0,Wise County,ST1,Natural Gas,Combined Cycle,Operating,230,230,24.4,2.97,10.25,7.61,manual,hi
+170341_S1,WEBBER__WSP1_S1,FRV AE Solar Plant (Webberville Solar),AES1,Solar,Solar,Operating,30,30,0,0,28.3,0,manual,hi
+140081_W1,WEC_WECG1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+140041_C1,WFCOGE_UNIT1_C1,Wichita Falls Cogeneration Energy Company,GTA,Natural Gas,Combined Cycle,Operating,19.7,19.7,59.99,8.6,27.59,18.88,manual,hi
+140041_C3,WFCOGE_UNIT1_C3,Wichita Falls Cogeneration Energy Company,GTB,Natural Gas,Combined Cycle,Operating,19.7,19.7,59.99,8.6,27.59,18.88,manual,hi
+140042_C0,WFCOGE_UNIT2_C0,Wichita Falls Cogeneration Energy Company,GTC,Natural Gas,Combined Cycle,Operating,19.7,19.7,59.99,8.6,27.59,18.88,manual,hi
+140042_C2,WFCOGE_UNIT2_C2,Wichita Falls Cogeneration Energy Company,STD,Natural Gas,Combined Cycle,Operating,17,17,59.99,8.6,27.59,18.88,manual,hi
+150171_C1,WHCCS_CT1_C1,Wolf Hollow,CTG1,Natural Gas,Combined Cycle,Operating,212.5,212.5,25.07,2.46,10.24,7.92,manual,hi
+150172_C2,WHCCS_CT2_C2,Wolf Hollow,CTG2,Natural Gas,Combined Cycle,Operating,212.5,212.5,25.07,2.46,10.24,7.92,manual,hi
+150173_C0,WHCCS_STG_C0,Wolf Hollow,ST,Natural Gas,Combined Cycle,Operating,280,280,25.07,2.46,10.24,7.92,manual,hi
+151081_C1,WHCCS2_G4_C1,Wolf Hollow II,CGT4,Natural Gas,Combined Cycle,Operating,360,360,22.94,0.85,8.95,7.25,manual,hi
+151082_C2,WHCCS2_G5_C2,Wolf Hollow II,CGT5,Natural Gas,Combined Cycle,Operating,360,360,22.94,0.85,8.95,7.25,manual,hi
+151083_C0,WHCCS2_G6_C0,Wolf Hollow II,STG6,Natural Gas,Combined Cycle,Operating,511.2,511.2,22.94,0.85,8.95,7.25,manual,hi
+140281_W1,WHTTAIL_WR1_W1,Whitetail Wind Energy Project,1,Wind,Wind,Operating,92,92,0,1.97,18.37,0,manual,hi
+170331_N1,WIPOP_WPP_G1_N1,Winchester Power Park,CGT1      ,Natural Gas,Combustion Turbine,Operating,44,44,31.11,4.38,3.74,9.55,manual,hi
+170331_N2,WIPOP_WPP_G1_N2,Winchester Power Park,CGT3      ,Natural Gas,Combustion Turbine,Operating,44,44,31.11,4.38,3.74,9.55,manual,hi
+170332_N3,WIPOP_WPP_G3_N3,Winchester Power Park,CGT4      ,Natural Gas,Combustion Turbine,Operating,44,44,31.6,4.38,3.74,9.69,manual,hi
+170332_N4,WIPOP_WPP_G3_N4,Winchester Power Park,CGT2      ,Natural Gas,Combustion Turbine,Operating,44,44,31.6,4.38,3.74,9.69,manual,hi
+170041_H1,WIR_WIRTZ_G1_H1,Wirtz Dam (Granite Shoals),1,Water,Hydro,Operating,27,27,0,37.64,11.15,0,manual,hi
+170042_H2,WIR_WIRTZ_G2_H2,Wirtz Dam (Granite Shoals),2,Water,Hydro,Operating,27,27,0,37.64,11.15,0,manual,hi
+120001_EQ,WLSH_WLSHG1_EQ,,,Coal,Steam Turbine,,,,,,,,manual,lo
+150011_H1,WND_WHITNEY1_H1,,,Wind,Wind,Operating,,,,,,,manual,lo
+150012_H2,WND_WHITNEY2_H2,,,Wind,Wind,Operating,,,,,,,manual,lo
+140701_W1,WNDTHST_G1_W1,,,Wind,Wind,Operating,,,,,,,manual,lo
+130431_W1,WOO_WOODWRD1_W1,Woodward Mountain 1 (Pecos I),1,Wind,Wind,Operating,82,82,0,2.78,21.62,0,manual,hi
+130531_W1,WOO_WOODWRD2_W1,Woodward Mountain 2 (Pecos II),1,Wind,Wind,Operating,78,78,0,2.78,21.85,0,manual,hi
+110841_P1,WRN_TARGA_1_P1,,,Solar,Solar,Operating,,,,,,,manual,lo

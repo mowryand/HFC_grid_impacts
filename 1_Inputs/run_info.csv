@@ -1,0 +1,233 @@
+id,scn,start,end,cap_mod,bat,bat_mod,bat_min,bat_loc,xm_mod,dr_amnt,scn_ref,xm_rlx,xm_sf,xm_viol,ltsa,fev,ld_mdl,desc,ts,rpt_all,curtail
+271,Scn_000697,2013-01-29,2013-01-30,0,FALSE,0,0,"",0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,xm upgrade diagnostic,2020-07-21 23:00:36 -0500,none,0
+272,Scn_000698,2013-05-03,2013-05-04,0,FALSE,0,0,"",0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,xm upgrade diagnostic,2020-07-21 23:00:43 -0500,none,0
+273,Scn_000699,2013-03-23,2013-03-24,0,FALSE,0,0,"",0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,xm upgrade diagnostic,2020-07-21 23:00:50 -0500,none,0
+367,Scn_000900,2013-01-01,2013-06-30,0,TRUE,0,0,COPY_000930,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 0 conc match bat,2020-09-29 11:28:29 -0500,chg,1
+405,Scn_000900,2013-01-01,2013-06-30,0,TRUE,0,0,NA_930,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 0 conc match bat,2020-12-03 13:05:24 -0500,chg,1
+368,Scn_000901,2013-07-01,2013-12-31,0,TRUE,0,0,COPY_000931,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 0 conc match bat,2020-09-29 11:28:40 -0500,chg,1
+406,Scn_000901,2013-07-01,2013-12-31,0,TRUE,0,0,NA_931,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 0 conc match bat,2020-12-03 13:05:35 -0500,chg,1
+369,Scn_000902,2013-01-01,2013-06-30,0,TRUE,0,0,COPY_000932,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 0 conc match bat,2020-09-29 11:28:50 -0500,chg,1
+407,Scn_000902,2013-01-01,2013-06-30,0,TRUE,0,0,NA_932,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 0 conc match bat,2020-12-03 13:05:45 -0500,chg,1
+370,Scn_000903,2013-07-01,2013-12-31,0,TRUE,0,0,COPY_000933,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 0 conc match bat,2020-09-29 11:29:01 -0500,chg,1
+408,Scn_000903,2013-07-01,2013-12-31,0,TRUE,0,0,NA_933,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 0 conc match bat,2020-12-03 13:05:55 -0500,chg,1
+371,Scn_000904,2013-01-01,2013-06-30,0,TRUE,0,0,COPY_000934,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 0 conc match bat,2020-09-29 11:29:11 -0500,chg,1
+409,Scn_000904,2013-01-01,2013-06-30,0,TRUE,0,0,NA_934,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 0 conc match bat,2020-12-03 13:06:05 -0500,chg,1
+372,Scn_000905,2013-07-01,2013-12-31,0,TRUE,0,0,COPY_000935,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 0 conc match bat,2020-09-29 11:29:21 -0500,chg,1
+410,Scn_000905,2013-07-01,2013-12-31,0,TRUE,0,0,NA_935,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 0 conc match bat,2020-12-03 13:06:14 -0500,chg,1
+373,Scn_000906,2013-01-01,2013-06-30,0,TRUE,0,0,COPY_000936,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 0 conc match bat,2020-09-29 11:29:31 -0500,chg,1
+411,Scn_000906,2013-01-01,2013-06-30,0,TRUE,0,0,NA_936,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 0 conc match bat,2020-12-03 13:06:24 -0500,chg,1
+374,Scn_000907,2013-07-01,2013-12-31,0,TRUE,0,0,COPY_000937,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 0 conc match bat,2020-09-29 11:29:41 -0500,chg,1
+412,Scn_000907,2013-07-01,2013-12-31,0,TRUE,0,0,NA_937,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 0 conc match bat,2020-12-03 13:06:34 -0500,chg,1
+349,Scn_000912,2013-01-01,2013-06-30,1.25,FALSE,0,0,"",0,0.05,Scn_000985,0,0,1,ltsa_current_trends_peaking,concentrated,ARA,demand response sim,2020-09-11 07:44:14 -0500,chg,1
+350,Scn_000913,2013-07-01,2013-12-31,1.25,FALSE,0,0,"",0,0.05,Scn_000986,0,0,1,ltsa_current_trends_peaking,concentrated,ARA,demand response sim,2020-09-11 07:44:38 -0500,chg,1
+351,Scn_000914,2013-01-01,2013-06-30,1.25,FALSE,0,0,"",0,0.1,Scn_000912,0,0,1,ltsa_current_trends_peaking,concentrated,ARA,demand response sim,2020-09-16 10:56:11 -0500,chg,1
+352,Scn_000915,2013-07-01,2013-12-31,1.25,FALSE,0,0,"",0,0.1,Scn_000913,0,0,1,ltsa_current_trends_peaking,concentrated,ARA,demand response sim,2020-09-16 10:56:35 -0500,chg,1
+355,Scn_000916,2013-01-01,2013-06-30,1.25,FALSE,0,0,"",0,0.15,Scn_000914,0,0,1,ltsa_current_trends_peaking,concentrated,ARA,demand response sim,2020-09-20 09:36:14 -0500,chg,1
+356,Scn_000917,2013-07-01,2013-12-31,1.25,FALSE,0,0,"",0,0.15,Scn_000915,0,0,1,ltsa_current_trends_peaking,concentrated,ARA,demand response sim,2020-09-20 09:36:37 -0500,chg,1
+359,Scn_000918,2013-01-01,2013-06-30,1.25,FALSE,0,0,"",0,0.2,Scn_000916,0,0,1,ltsa_current_trends_peaking,concentrated,ARA,demand response sim,2020-09-23 10:27:13 -0500,chg,1
+360,Scn_000919,2013-07-01,2013-12-31,1.25,FALSE,0,0,"",0,0.2,Scn_000917,0,0,1,ltsa_current_trends_peaking,concentrated,ARA,demand response sim,2020-09-23 10:27:36 -0500,chg,1
+325,Scn_000920,2013-01-01,2013-06-30,0.75,TRUE,0.05,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 075 conc 05% bat,2020-08-13 10:09:17 -0500,chg,1
+389,Scn_000920,2013-01-01,2013-06-30,0.75,TRUE,0.05,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,fixed storage constraint,2020-11-14 16:00:20 -0500,chg,1
+326,Scn_000921,2013-07-01,2013-12-31,0.75,TRUE,0.05,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 075 conc 05% bat,2020-08-13 10:09:34 -0500,chg,1
+390,Scn_000921,2013-07-01,2013-12-31,0.75,TRUE,0.05,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,fixed storage constraint,2020-11-14 16:00:52 -0500,chg,1
+327,Scn_000922,2013-01-01,2013-06-30,0.75,TRUE,0.1,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 075 conc 10% bat,2020-08-13 10:09:51 -0500,chg,1
+391,Scn_000922,2013-01-01,2013-06-30,0.75,TRUE,0.1,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,fixed storage constraint,2020-11-14 16:01:09 -0500,chg,1
+328,Scn_000923,2013-07-01,2013-12-31,0.75,TRUE,0.1,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 075 conc 10% bat,2020-08-13 10:10:08 -0500,chg,1
+392,Scn_000923,2013-07-01,2013-12-31,0.75,TRUE,0.1,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,fixed storage constraint,2020-11-14 16:01:25 -0500,chg,1
+329,Scn_000924,2013-01-01,2013-06-30,0.75,TRUE,0.15,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 075 conc 15% bat,2020-08-13 10:10:25 -0500,chg,1
+393,Scn_000924,2013-01-01,2013-06-30,0.75,TRUE,0.15,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,fixed storage constraint,2020-11-14 16:01:41 -0500,chg,1
+330,Scn_000925,2013-07-01,2013-12-31,0.75,TRUE,0.15,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 075 conc 15% bat,2020-08-13 10:10:41 -0500,chg,1
+394,Scn_000925,2013-07-01,2013-12-31,0.75,TRUE,0.15,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,fixed storage constraint,2020-11-14 16:01:58 -0500,chg,1
+331,Scn_000926,2013-01-01,2013-06-30,0.75,TRUE,0.2,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 075 conc 20% bat,2020-08-13 10:10:58 -0500,chg,1
+395,Scn_000926,2013-01-01,2013-06-30,0.75,TRUE,0.2,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,fixed storage constraint,2020-11-14 16:02:15 -0500,chg,1
+332,Scn_000927,2013-07-01,2013-12-31,0.75,TRUE,0.2,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 075 conc 20% bat,2020-08-13 10:11:15 -0500,chg,1
+396,Scn_000927,2013-07-01,2013-12-31,0.75,TRUE,0.2,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,fixed storage constraint,2020-11-14 16:02:30 -0500,chg,1
+315,Scn_000930,2013-01-01,2013-06-30,1,TRUE,0.05,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 100 conc 05% bat,2020-08-04 23:09:43 -0500,chg,1
+381,Scn_000930,2013-01-01,2013-06-30,1,TRUE,0.05,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,fixed storage constraint,2020-11-08 15:57:12 -0500,chg,1
+316,Scn_000931,2013-07-01,2013-12-31,1,TRUE,0.05,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 100 conc 05% bat,2020-08-04 23:10:17 -0500,chg,1
+382,Scn_000931,2013-07-01,2013-12-31,1,TRUE,0.05,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,fixed storage constraint,2020-11-08 15:57:32 -0500,chg,1
+317,Scn_000932,2013-01-01,2013-06-30,1,TRUE,0.1,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 100 conc 10% bat,2020-08-04 23:10:35 -0500,chg,1
+383,Scn_000932,2013-01-01,2013-06-30,1,TRUE,0.1,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,fixed storage constraint,2020-11-08 15:57:49 -0500,chg,1
+318,Scn_000933,2013-07-01,2013-12-31,1,TRUE,0.1,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 100 conc 10% bat,2020-08-04 23:10:53 -0500,chg,1
+384,Scn_000933,2013-07-01,2013-12-31,1,TRUE,0.1,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,fixed storage constraint,2020-11-08 15:58:08 -0500,chg,1
+333,Scn_000934,2013-01-01,2013-06-30,1,TRUE,0.15,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 100 conc 15% bat,2020-08-13 10:11:31 -0500,chg,1
+385,Scn_000934,2013-01-01,2013-06-30,1,TRUE,0.15,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,fixed storage constraint,2020-11-08 15:58:26 -0500,chg,1
+334,Scn_000935,2013-07-01,2013-12-31,1,TRUE,0.15,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 100 conc 15% bat,2020-08-13 10:11:51 -0500,chg,1
+386,Scn_000935,2013-07-01,2013-12-31,1,TRUE,0.15,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,fixed storage constraint,2020-11-08 15:58:44 -0500,chg,1
+335,Scn_000936,2013-01-01,2013-06-30,1,TRUE,0.2,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 100 conc 20% bat,2020-08-13 10:12:11 -0500,chg,1
+387,Scn_000936,2013-01-01,2013-06-30,1,TRUE,0.2,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,fixed storage constraint,2020-11-08 15:59:02 -0500,chg,1
+336,Scn_000937,2013-07-01,2013-12-31,1,TRUE,0.2,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 100 conc 20% bat,2020-08-13 10:12:29 -0500,chg,1
+388,Scn_000937,2013-07-01,2013-12-31,1,TRUE,0.2,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,fixed storage constraint,2020-11-08 15:59:20 -0500,chg,1
+323,Scn_000942,2013-01-01,2013-06-30,1,FALSE,0,0,"",0,0.05,Scn_000980,0,0,1,ltsa_current_trends_peaking,concentrated,ARA,demand response sim,2020-08-12 07:18:56 -0500,chg,1
+324,Scn_000943,2013-07-01,2013-12-31,1,FALSE,0,0,"",0,0.05,Scn_000981,0,0,1,ltsa_current_trends_peaking,concentrated,ARA,demand response sim,2020-08-12 07:19:17 -0500,chg,1
+341,Scn_000944,2013-01-01,2013-06-30,1,FALSE,0,0,"",0,0.1,Scn_000942,0,0,1,ltsa_current_trends_peaking,concentrated,ARA,demand response sim,2020-09-02 19:45:07 -0500,chg,1
+342,Scn_000945,2013-07-01,2013-12-31,1,FALSE,0,0,"",0,0.1,Scn_000943,0,0,1,ltsa_current_trends_peaking,concentrated,ARA,demand response sim,2020-09-02 19:45:44 -0500,chg,1
+343,Scn_000946,2013-01-01,2013-06-30,1,FALSE,0,0,"",0,0.15,Scn_000944,0,0,1,ltsa_current_trends_peaking,concentrated,ARA,demand response sim,2020-09-07 10:42:13 -0500,chg,1
+344,Scn_000947,2013-07-01,2013-12-31,1,FALSE,0,0,"",0,0.15,Scn_000945,0,0,1,ltsa_current_trends_peaking,concentrated,ARA,demand response sim,2020-09-07 10:42:36 -0500,chg,1
+345,Scn_000948,2013-01-01,2013-06-30,1,FALSE,0,0,"",0,0.2,Scn_000946,0,0,1,ltsa_current_trends_peaking,concentrated,ARA,demand response sim,2020-09-08 23:44:42 -0500,chg,1
+346,Scn_000949,2013-07-01,2013-12-31,1,FALSE,0,0,"",0,0.2,Scn_000947,0,0,1,ltsa_current_trends_peaking,concentrated,ARA,demand response sim,2020-09-08 23:45:06 -0500,chg,1
+347,Scn_000952,2013-01-01,2013-06-30,0.75,FALSE,0,0,"",0,0.05,Scn_000987,0,0,1,ltsa_current_trends_peaking,concentrated,ARA,demand response sim,2020-09-10 09:34:52 -0500,chg,1
+348,Scn_000953,2013-07-01,2013-12-31,0.75,FALSE,0,0,"",0,0.05,Scn_000988,0,0,1,ltsa_current_trends_peaking,concentrated,ARA,demand response sim,2020-09-10 09:35:11 -0500,chg,1
+353,Scn_000954,2013-01-01,2013-06-30,0.75,FALSE,0,0,"",0,0.1,Scn_000952,0,0,1,ltsa_current_trends_peaking,concentrated,ARA,demand response sim,2020-09-16 10:56:58 -0500,chg,1
+354,Scn_000955,2013-07-01,2013-12-31,0.75,FALSE,0,0,"",0,0.1,Scn_000953,0,0,1,ltsa_current_trends_peaking,concentrated,ARA,demand response sim,2020-09-16 10:57:17 -0500,chg,1
+357,Scn_000956,2013-01-01,2013-06-30,0.75,FALSE,0,0,"",0,0.15,Scn_000954,0,0,1,ltsa_current_trends_peaking,concentrated,ARA,demand response sim,2020-09-20 09:36:59 -0500,chg,1
+358,Scn_000957,2013-07-01,2013-12-31,0.75,FALSE,0,0,"",0,0.15,Scn_000955,0,0,1,ltsa_current_trends_peaking,concentrated,ARA,demand response sim,2020-09-20 09:37:17 -0500,chg,1
+361,Scn_000958,2013-01-01,2013-06-30,0.75,FALSE,0,0,"",0,0.2,Scn_000956,0,0,1,ltsa_current_trends_peaking,concentrated,ARA,demand response sim,2020-09-23 10:31:30 -0500,chg,1
+362,Scn_000959,2013-07-01,2013-12-31,0.75,FALSE,0,0,"",0,0.2,Scn_000957,0,0,1,ltsa_current_trends_peaking,concentrated,ARA,demand response sim,2020-09-23 10:31:48 -0500,chg,1
+319,Scn_000960,2013-01-01,2013-06-30,1.25,TRUE,0.05,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 125 conc 05% bat,2020-08-04 23:11:11 -0500,chg,1
+397,Scn_000960,2013-01-01,2013-06-30,1.25,TRUE,0.05,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,fixed storage constraint,2020-11-19 11:47:57 -0500,chg,1
+320,Scn_000961,2013-07-01,2013-12-31,1.25,TRUE,0.05,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 125 conc 05% bat,2020-08-04 23:11:32 -0500,chg,1
+398,Scn_000961,2013-07-01,2013-12-31,1.25,TRUE,0.05,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,fixed storage constraint,2020-11-19 11:48:17 -0500,chg,1
+321,Scn_000962,2013-01-01,2013-06-30,1.25,TRUE,0.1,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 125 conc 10% bat,2020-08-04 23:11:52 -0500,chg,1
+399,Scn_000962,2013-01-01,2013-06-30,1.25,TRUE,0.1,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,fixed storage constraint,2020-11-19 11:48:37 -0500,chg,1
+322,Scn_000963,2013-07-01,2013-12-31,1.25,TRUE,0.1,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 125 conc 10% bat,2020-08-04 23:12:13 -0500,chg,1
+400,Scn_000963,2013-07-01,2013-12-31,1.25,TRUE,0.1,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,fixed storage constraint,2020-11-19 11:48:57 -0500,chg,1
+337,Scn_000964,2013-01-01,2013-06-30,1.25,TRUE,0.15,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 125 conc 10% bat,2020-08-13 10:12:48 -0500,chg,1
+401,Scn_000964,2013-01-01,2013-06-30,1.25,TRUE,0.15,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,fixed storage constraint,2020-11-19 11:49:16 -0500,chg,1
+338,Scn_000965,2013-07-01,2013-12-31,1.25,TRUE,0.15,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 125 conc 10% bat,2020-08-13 10:13:09 -0500,chg,1
+402,Scn_000965,2013-07-01,2013-12-31,1.25,TRUE,0.15,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,yfixed storage constraint,2020-11-19 11:49:36 -0500,chg,1
+339,Scn_000966,2013-01-01,2013-06-30,1.25,TRUE,0.2,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 125 conc 10% bat,2020-08-13 10:13:29 -0500,chg,1
+403,Scn_000966,2013-01-01,2013-06-30,1.25,TRUE,0.2,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,fixed storage constraint,2020-11-19 11:49:56 -0500,chg,1
+340,Scn_000967,2013-07-01,2013-12-31,1.25,TRUE,0.2,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,year 125 conc 10% bat,2020-08-13 10:13:50 -0500,chg,1
+404,Scn_000967,2013-07-01,2013-12-31,1.25,TRUE,0.2,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,fixed storage constraint,2020-11-19 11:50:15 -0500,chg,1
+299,Scn_000970,2013-01-01,2013-06-30,1,FALSE,0,0,"",0,0,"",0,0,1,ltsa_current_trends_peaking,dispersed,ARA,new 100 disp,2020-07-25 18:29:34 -0500,chg,1
+300,Scn_000971,2013-07-01,2013-12-31,1,FALSE,0,0,"",0,0,"",0,0,1,ltsa_current_trends_peaking,dispersed,ARA,new 100 disp,2020-07-25 18:30:04 -0500,chg,1
+307,Scn_000975,2013-01-01,2013-06-30,1.25,FALSE,0,0,"",0,0,"",0,0,1,ltsa_current_trends_peaking,dispersed,ARA,new 125 disp,2020-07-28 06:55:42 -0500,chg,1
+308,Scn_000976,2013-07-01,2013-12-31,1.25,FALSE,0,0,"",0,0,"",0,0,1,ltsa_current_trends_peaking,dispersed,ARA,new 125 disp,2020-07-28 06:56:14 -0500,chg,1
+309,Scn_000977,2013-01-01,2013-06-30,0.75,FALSE,0,0,"",0,0,"",0,0,1,ltsa_current_trends_peaking,dispersed,ARA,new 075 disp,2020-07-28 06:56:49 -0500,chg,1
+310,Scn_000978,2013-07-01,2013-12-31,0.75,FALSE,0,0,"",0,0,"",0,0,1,ltsa_current_trends_peaking,dispersed,ARA,new 075 disp,2020-07-28 06:57:15 -0500,chg,1
+297,Scn_000980,2013-01-01,2013-06-30,1,FALSE,0,0,"",0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,new 100 conc,2020-07-25 18:28:55 -0500,chg,1
+298,Scn_000981,2013-07-01,2013-12-31,1,FALSE,0,0,"",0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,new 100 conc,2020-07-25 18:29:15 -0500,chg,1
+311,Scn_000985,2013-01-01,2013-06-30,1.25,FALSE,0,0,"",0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,new 125 conc,2020-07-28 06:57:41 -0500,chg,1
+312,Scn_000986,2013-07-01,2013-12-31,1.25,FALSE,0,0,"",0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,new 125 conc,2020-07-28 06:58:01 -0500,chg,1
+313,Scn_000987,2013-01-01,2013-06-30,0.75,FALSE,0,0,"",0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,new 075 conc,2020-07-28 06:58:21 -0500,chg,1
+314,Scn_000988,2013-07-01,2013-12-31,0.75,FALSE,0,0,"",0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,new 075 conc,2020-07-28 06:58:37 -0500,chg,1
+274,Scn_000990,2013-01-01,2013-06-30,0,FALSE,0,0,"",0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,new 100 base,2020-07-21 23:34:10 -0500,chg,1
+275,Scn_000991,2013-07-01,2013-12-31,0,FALSE,0,0,"",0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,new 100 base,2020-07-21 23:34:21 -0500,chg,1
+363,Scn_000992,2013-01-01,2013-06-30,0.5,FALSE,0,0,"",0,0,"",0,0,1,ltsa_current_trends_peaking,dispersed,ARA,new 050 base,2020-09-23 13:28:14 -0500,chg,1
+364,Scn_000993,2013-07-01,2013-12-31,0.5,FALSE,0,0,"",0,0,"",0,0,1,ltsa_current_trends_peaking,dispersed,ARA,new 050 base,2020-09-23 13:28:36 -0500,chg,1
+365,Scn_000994,2013-01-01,2013-06-30,0.5,FALSE,0,0,"",0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,new 050 base,2020-09-23 13:28:58 -0500,chg,1
+366,Scn_000995,2013-07-01,2013-12-31,0.5,FALSE,0,0,"",0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,new 050 base,2020-09-23 13:29:13 -0500,chg,1
+375,Scn_000996,2013-01-01,2013-06-30,1.5,FALSE,0,0,"",0,0,"",0,0,1,ltsa_current_trends_peaking,dispersed,ARA,new 150 base,2020-09-29 11:29:52 -0500,chg,1
+376,Scn_000997,2013-07-01,2013-12-31,1.5,FALSE,0,0,"",0,0,"",0,0,1,ltsa_current_trends_peaking,dispersed,ARA,new 150 base,2020-09-29 11:30:33 -0500,chg,1
+377,Scn_000998,2013-01-01,2013-06-30,1.5,FALSE,0,0,"",0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,new 150 base,2020-09-29 11:31:16 -0500,chg,1
+378,Scn_000999,2013-07-01,2013-12-31,1.5,FALSE,0,0,"",0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,new 150 base,2020-09-29 11:31:42 -0500,chg,1
+90,Scn_001,2013-11-20,2013-11-30,0,FALSE,0,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,rerunning with edited load truncation,2020-03-19 11:05:56 -0500,none,0
+127,Scn_001,2013-11-20,2013-11-30,0,FALSE,0,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,run with all CHARGER nodes reported,2020-03-25 14:28:09 -0500,chg,0
+379,Scn_001961,2013-08-08,2013-08-13,1.25,TRUE,0.05,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,copy of 000961 but with 24 hour lookahead,2020-11-05 19:09:37 -0500,chg,1
+380,Scn_001961,2013-08-08,2013-08-13,1.25,TRUE,0.05,0,38131_7315_13436_38360_3471_8367,0,0,"",0,0,1,ltsa_current_trends_peaking,concentrated,ARA,fixing the storage constraint,2020-11-08 15:14:00 -0500,chg,1
+58,Scn_002,2013-11-20,2013-11-30,1,FALSE,0,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,just redoing bc seeding randoms now,2020-03-03 11:58:00 -0500,none,0
+101,Scn_002,2013-11-20,2013-11-30,1,FALSE,0,0,"",0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,"",2020-03-21 17:55:44 -0500,none,0
+86,Scn_003,2013-11-20,2013-11-30,0.5,FALSE,0,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,rerunning since I messed up specs,2020-03-19 10:27:26 -0500,none,0
+102,Scn_003,2013-11-20,2013-11-30,0.5,FALSE,0,0,"",0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,"",2020-03-21 17:56:15 -0500,none,0
+56,Scn_004,2013-11-20,2013-11-30,0.75,FALSE,0,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,just redoing bc seeding randoms now,2020-03-03 11:57:00 -0500,none,0
+103,Scn_004,2013-11-20,2013-11-30,0.75,FALSE,0,0,"",0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,"",2020-03-21 17:56:30 -0500,none,0
+57,Scn_005,2013-11-20,2013-11-30,1.25,FALSE,0,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,just redoing bc seeding randoms now,2020-03-03 11:57:00 -0500,none,0
+104,Scn_005,2013-11-20,2013-11-30,1.25,FALSE,0,0,"",0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,"",2020-03-21 17:56:44 -0500,none,0
+60,Scn_006,2013-11-20,2013-11-30,1.5,FALSE,0,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,just redoing bc seeding randoms now,2020-03-04 11:23:00 -0500,none,0
+105,Scn_006,2013-11-20,2013-11-30,1.5,FALSE,0,0,"",0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,"",2020-03-21 17:57:00 -0500,none,0
+107,Scn_008,2013-11-20,2013-11-30,0,FALSE,0,0,"",0,0,"",0,0,0,ltsa_current_trends,dispersed,ARA,rerunning bc dispersed bug?,2020-03-23 11:46:12 -0500,none,0
+107,Scn_008,2013-11-20,2013-11-30,0,FALSE,0,0,"",0,0,"",0,0,0,ltsa_current_trends,dispersed,ARA,rerunning bc dispersed bug?,2020-03-23 11:46:12 -0500,none,0
+27,Scn_009,2013-11-20,2013-11-30,1,FALSE,0,0,"",0,0,"",0,0,0,ltsa_current_trends,dispersed,ARA,"",2020-01-29 11:19:00 -0500,none,0
+122,Scn_009,2013-11-20,2013-11-30,1,FALSE,0,0,"",0,0,"",0,0,0,ltsa_current_trends,dispersed,ARA,hopefully final rerun...,2020-03-25 06:40:03 -0500,none,0
+36,Scn_010,2013-11-20,2013-11-30,0.5,FALSE,0,0,"",0,0,"",0,0,0,ltsa_current_trends,dispersed,ARA,"",2020-01-31 15:36:00 -0500,none,0
+123,Scn_010,2013-11-20,2013-11-30,0.5,FALSE,0,0,"",0,0,"",0,0,0,ltsa_current_trends,dispersed,ARA,hopefully final rerun...,2020-03-25 06:40:21 -0500,none,0
+37,Scn_011,2013-11-20,2013-11-30,0.75,FALSE,0,0,"",0,0,"",0,0,0,ltsa_current_trends,dispersed,ARA,"",2020-01-31 15:36:00 -0500,none,0
+124,Scn_011,2013-11-20,2013-11-30,0.75,FALSE,0,0,"",0,0,"",0,0,0,ltsa_current_trends,dispersed,ARA,hopefully final rerun...,2020-03-25 06:40:39 -0500,none,0
+38,Scn_012,2013-11-20,2013-11-30,1.25,FALSE,0,0,"",0,0,"",0,0,0,ltsa_current_trends,dispersed,ARA,"",2020-01-31 15:36:00 -0500,none,0
+125,Scn_012,2013-11-20,2013-11-30,1.25,FALSE,0,0,"",0,0,"",0,0,0,ltsa_current_trends,dispersed,ARA,hopefully final rerun...,2020-03-25 06:40:57 -0500,none,0
+39,Scn_013,2013-11-20,2013-11-30,1.5,FALSE,0,0,"",0,0,"",0,0,0,ltsa_current_trends,dispersed,ARA,"",2020-01-31 15:37:00 -0500,none,0
+126,Scn_013,2013-11-20,2013-11-30,1.5,FALSE,0,0,"",0,0,"",0,0,0,ltsa_current_trends,dispersed,ARA,hopefully final rerun...,2020-03-25 06:41:12 -0500,none,0
+47,Scn_014,2013-11-20,2013-11-30,1,TRUE,0.5,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,"",2020-03-03 11:49:00 -0500,none,0
+96,Scn_014,2013-11-20,2013-11-30,1,TRUE,0.5,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,reworked bat_mod cap_mod bat_min,2020-03-20 14:31:25 -0500,none,0
+52,Scn_015,2013-11-20,2013-11-30,1,TRUE,0,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,"",2020-03-03 11:54:00 -0500,none,0
+97,Scn_015,2013-11-20,2013-11-30,1,TRUE,0,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,reworked bat_mod cap_mod bat_min,2020-03-20 14:31:39 -0500,none,0
+53,Scn_016,2013-11-20,2013-11-30,1,TRUE,0.25,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,"",2020-03-03 11:55:00 -0500,none,0
+98,Scn_016,2013-11-20,2013-11-30,1,TRUE,0.25,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,reworked bat_mod cap_mod bat_min,2020-03-20 14:31:55 -0500,none,0
+54,Scn_017,2013-11-20,2013-11-30,1,TRUE,0.75,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,"",2020-03-03 11:55:00 -0500,none,0
+99,Scn_017,2013-11-20,2013-11-30,1,TRUE,0.75,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,reworked bat_mod cap_mod bat_min,2020-03-20 14:32:11 -0500,none,0
+55,Scn_018,2013-11-20,2013-11-30,1,TRUE,1,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,"",2020-03-03 11:56:00 -0500,none,0
+100,Scn_018,2013-11-20,2013-11-30,1,TRUE,1,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,reworked bat_mod cap_mod bat_min,2020-03-20 14:32:27 -0500,none,0
+76,Scn_019,2013-11-20,2013-11-30,0,TRUE,0.5,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,"",2020-03-11 15:34:00 -0500,none,0
+91,Scn_019,2013-11-20,2013-11-30,0,TRUE,0.5,0.01,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,reworked bat_mod cap_mod bat_min,2020-03-20 14:21:02 -0500,none,0
+89,Scn_020,2013-11-20,2013-11-30,0.5,TRUE,0.5,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,rerunning with edited load truncation,2020-03-19 11:05:04 -0500,none,0
+92,Scn_020,2013-11-20,2013-11-30,0.5,TRUE,0.5,0.01,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,reworked bat_mod cap_mod bat_min,2020-03-20 14:21:18 -0500,none,0
+49,Scn_021,2013-11-20,2013-11-30,0.75,TRUE,0.5,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,"",2020-03-03 11:50:00 -0500,none,0
+93,Scn_021,2013-11-20,2013-11-30,0.75,TRUE,0.5,0.01,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,reworked bat_mod cap_mod bat_min,2020-03-20 14:21:30 -0500,none,0
+50,Scn_022,2013-11-20,2013-11-30,1.25,TRUE,0.5,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,"",2020-03-03 11:51:00 -0500,none,0
+94,Scn_022,2013-11-20,2013-11-30,1.25,TRUE,0.5,0.01,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,reworked bat_mod cap_mod bat_min,2020-03-20 14:21:43 -0500,none,0
+51,Scn_023,2013-11-20,2013-11-30,1.5,TRUE,0.5,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,"",2020-03-03 11:51:00 -0500,none,0
+95,Scn_023,2013-11-20,2013-11-30,1.5,TRUE,0.5,0.01,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,reworked bat_mod cap_mod bat_min,2020-03-20 14:21:56 -0500,none,0
+80,Scn_101,2013-11-20,2013-11-30,0,FALSE,0,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,INJ,"",2020-03-18 23:05:52 -0500,all,0
+87,Scn_103,2013-11-20,2013-11-30,0.5,FALSE,0,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,INJ,rerunning since I messed up specs,2020-03-19 10:27:40 -0500,none,0
+82,Scn_120,2013-11-20,2013-11-30,0.5,TRUE,0.15,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,INJ,"",2020-03-18 23:06:29 -0500,all,0
+134,Scn_150,2013-11-20,2013-11-30,1,TRUE,0,0,38131_38360_60091_7315,0,0.05,Scn_015,0,0,0,ltsa_current_trends,concentrated,ARA,demand response sim,2020-04-08 18:44:35 -0500,chg,0
+135,Scn_151,2013-11-20,2013-11-30,1,TRUE,0,0,38131_38360_60091_7315,0,0.1,Scn_150,0,0,0,ltsa_current_trends,concentrated,ARA,demand response sim,2020-04-08 19:56:42 -0500,chg,0
+136,Scn_152,2013-11-20,2013-11-30,1,TRUE,0,0,38131_38360_60091_7315,0,0.15,Scn_151,0,0,0,ltsa_current_trends,concentrated,ARA,demand response sim,2020-04-08 20:46:26 -0500,chg,0
+137,Scn_153,2013-11-20,2013-11-30,1,TRUE,0,0,38131_38360_60091_7315,0,0.2,Scn_152,0,0,0,ltsa_current_trends,concentrated,ARA,demand response sim,2020-04-08 21:20:20 -0500,chg,0
+108,Scn_250,2013-11-20,2013-11-30,0.5,TRUE,0.15,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,new cap_mod series @15% bat,2020-03-23 12:00:45 -0500,none,0
+109,Scn_251,2013-11-20,2013-11-30,0.75,TRUE,0.15,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,new cap_mod series @15% bat,2020-03-23 12:01:02 -0500,none,0
+110,Scn_252,2013-11-20,2013-11-30,1,TRUE,0.15,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,new cap_mod series @15% bat,2020-03-23 12:01:15 -0500,none,0
+111,Scn_253,2013-11-20,2013-11-30,1.25,TRUE,0.15,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,new cap_mod series @15% bat,2020-03-23 12:01:28 -0500,none,0
+112,Scn_254,2013-11-20,2013-11-30,1.5,TRUE,0.15,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,new cap_mod series @15% bat,2020-03-23 12:01:40 -0500,none,0
+113,Scn_350,2013-11-20,2013-11-30,0.5,TRUE,0.35,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,new cap_mod series @35% bat,2020-03-23 13:55:57 -0500,none,0
+114,Scn_351,2013-11-20,2013-11-30,0.75,TRUE,0.35,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,new cap_mod series @35% bat,2020-03-23 13:56:17 -0500,none,0
+115,Scn_352,2013-11-20,2013-11-30,1,TRUE,0.35,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,new cap_mod series @35% bat,2020-03-23 13:56:30 -0500,none,0
+116,Scn_353,2013-11-20,2013-11-30,1.25,TRUE,0.35,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,new cap_mod series @35% bat,2020-03-23 13:56:44 -0500,none,0
+117,Scn_354,2013-11-20,2013-11-30,1.5,TRUE,0.35,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,new cap_mod series @35% bat,2020-03-23 13:56:57 -0500,none,0
+118,Scn_450,2013-11-20,2013-11-30,0.5,TRUE,0.25,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,new cap_mod series @25% bat,2020-03-24 18:01:46 -0500,none,0
+119,Scn_451,2013-11-20,2013-11-30,0.75,TRUE,0.25,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,new cap_mod series @25% bat,2020-03-24 18:02:38 -0500,none,0
+120,Scn_453,2013-11-20,2013-11-30,1.25,TRUE,0.25,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,new cap_mod series @25% bat,2020-03-24 18:02:52 -0500,none,0
+121,Scn_454,2013-11-20,2013-11-30,1.5,TRUE,0.25,0,38131_38360_60091_7315,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,new cap_mod series @25% bat,2020-03-24 18:03:10 -0500,none,0
+128,Scn_502,2013-11-20,2013-11-30,1,FALSE,0,0,"",0.15,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,transmission kit,2020-04-01 22:55:27 -0500,none,0
+129,Scn_504,2013-11-20,2013-11-30,0.75,FALSE,0,0,"",0.15,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,transmission kit,2020-04-01 22:55:40 -0500,none,0
+130,Scn_505,2013-11-20,2013-11-30,1.25,FALSE,0,0,"",0.15,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,transmission kit,2020-04-01 22:55:54 -0500,none,0
+161,Scn_506,2013-11-20,2013-11-30,1,FALSE,0,0,"",0.15,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,15% xm kit JUST 38131,2020-05-08 06:53:53 -0500,none,0
+162,Scn_507,2013-11-20,2013-11-30,1,TRUE,0.15,0,38131,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,15% bat for 38131,2020-05-08 06:54:41 -0500,none,0
+163,Scn_508,2013-11-20,2013-11-30,1,TRUE,0.25,0,38131,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,15% bat for 38131,2020-05-08 06:54:54 -0500,none,0
+164,Scn_509,2013-11-20,2013-11-30,1,TRUE,0.35,0,38131,0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,15% bat for 38131,2020-05-08 06:55:08 -0500,none,0
+131,Scn_512,2013-11-20,2013-11-30,1,FALSE,0,0,"",0.25,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,transmission kit,2020-04-01 22:56:08 -0500,none,0
+132,Scn_514,2013-11-20,2013-11-30,0.75,FALSE,0,0,"",0.25,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,transmission kit,2020-04-01 22:56:25 -0500,none,0
+133,Scn_515,2013-11-20,2013-11-30,1.25,FALSE,0,0,"",0.25,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,transmission kit,2020-04-01 22:56:37 -0500,none,0
+157,Scn_601,2013-11-20,2013-11-30,0,FALSE,0,0,"",0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,testing surgical xm,2020-05-02 22:03:13 -0500,none,0
+166,Scn_601,2013-11-20,2013-11-21,0,FALSE,0,0,"",0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,generating PC_TopPthInj,2020-05-20 17:36:48 -0500,none,0
+167,Scn_602,2013-11-20,2013-11-21,0,FALSE,0,0,"",0,0,"",0,1,1,ltsa_current_trends,concentrated,ARA,surgical xm take 5!,2020-05-20 19:55:14 -0500,none,0
+168,Scn_603,2013-11-20,2013-11-21,0,FALSE,0,0,"",0,0,"",0,1,1,ltsa_current_trends,concentrated,ARA,surgical xm take 6!,2020-05-20 21:03:13 -0500,none,0
+169,Scn_604,2013-11-20,2013-11-21,0,FALSE,0,0,"",0,0,"",0,1,1,ltsa_current_trends,concentrated,ARA,surgical xm take 7!,2020-05-20 21:50:36 -0500,none,0
+170,Scn_651,2013-11-20,2013-11-30,0,FALSE,0,0,"",0,0,"",0,1,1,ltsa_current_trends,concentrated,ARA,scaling up 604 to full run,2020-05-20 22:11:00 -0500,none,0
+180,Scn_651,2013-11-20,2013-11-30,0,FALSE,0,0,"",0,0,"",0,1,1,ltsa_current_trends,concentrated,ARA,testing new mitigation,2020-05-21 20:00:27 -0500,none,0
+191,Scn_6518,2013-08-01,2013-08-31,0,FALSE,0,0,"",0,0,"",0,1,1,ltsa_current_trends,concentrated,ARA,august,2020-05-28 09:35:08 -0500,none,0
+171,Scn_652,2013-11-20,2013-11-30,1,FALSE,0,0,"",0,0,"",0,1,1,ltsa_current_trends,concentrated,ARA,"",2020-05-21 06:08:42 -0500,none,0
+181,Scn_652,2013-11-20,2013-11-30,1,FALSE,0,0,"",0,0,"",0,1,1,ltsa_current_trends,concentrated,ARA,"",2020-05-27 09:19:38 -0500,none,0
+192,Scn_6528,2013-08-01,2013-08-31,1,FALSE,0,0,"",0,0,"",0,1,1,ltsa_current_trends,concentrated,ARA,august,2020-05-28 09:35:51 -0500,none,0
+172,Scn_654,2013-11-20,2013-11-30,0.75,FALSE,0,0,"",0,0,"",0,1,1,ltsa_current_trends,concentrated,ARA,"",2020-05-21 06:09:32 -0500,none,0
+182,Scn_654,2013-11-20,2013-11-30,0.75,FALSE,0,0,"",0,0,"",0,1,1,ltsa_current_trends,concentrated,ARA,"",2020-05-27 09:20:08 -0500,none,0
+173,Scn_655,2013-11-20,2013-11-30,1.25,FALSE,0,0,"",0,0,"",0,1,1,ltsa_current_trends,concentrated,ARA,"",2020-05-21 06:09:51 -0500,none,0
+183,Scn_655,2013-11-20,2013-11-30,1.25,FALSE,0,0,"",0,0,"",0,1,1,ltsa_current_trends,concentrated,ARA,"",2020-05-27 09:20:29 -0500,none,0
+174,Scn_659,2013-11-20,2013-11-30,1,FALSE,0,0,"",0,0,"",0,1,1,ltsa_current_trends,dispersed,ARA,"",2020-05-21 06:10:11 -0500,none,0
+184,Scn_659,2013-11-20,2013-11-30,1,FALSE,0,0,"",0,0,"",0,1,1,ltsa_current_trends,dispersed,ARA,"",2020-05-27 09:20:46 -0500,none,0
+175,Scn_661,2013-11-20,2013-11-30,0.75,FALSE,0,0,"",0,0,"",0,1,1,ltsa_current_trends,dispersed,ARA,"",2020-05-21 06:10:32 -0500,none,0
+185,Scn_661,2013-11-20,2013-11-30,0.75,FALSE,0,0,"",0,0,"",0,1,1,ltsa_current_trends,dispersed,ARA,"",2020-05-27 09:21:04 -0500,none,0
+176,Scn_662,2013-11-20,2013-11-30,1.25,FALSE,0,0,"",0,0,"",0,1,1,ltsa_current_trends,dispersed,ARA,"",2020-05-21 06:10:54 -0500,none,0
+186,Scn_662,2013-11-20,2013-11-30,1.25,FALSE,0,0,"",0,0,"",0,1,1,ltsa_current_trends,dispersed,ARA,"",2020-05-27 09:21:20 -0500,none,0
+214,Scn_666,2013-08-12,2013-08-16,0,FALSE,0,0,"",0,0,"",0,1,1,ltsa_current_trends,concentrated,ARA,peak congestion day,2020-06-12 06:31:55 -0500,chg,0
+177,Scn_697,2013-01-29,2013-01-30,0,FALSE,0,0,"",0,0,"",0,1,0,ltsa_current_trends,concentrated,ARA,test case for xm_viol,2020-05-21 12:22:08 -0500,none,0
+178,Scn_698,2013-05-03,2013-05-04,0,FALSE,0,0,"",0,0,"",0,1,0,ltsa_current_trends,concentrated,ARA,test case for xm_viol,2020-05-21 12:22:22 -0500,none,0
+179,Scn_699,2013-03-23,2013-03-24,0,FALSE,0,0,"",0,0,"",0,1,0,ltsa_current_trends,concentrated,ARA,test case for xm_viol,2020-05-21 12:22:34 -0500,none,0
+149,Scn_701,2013-11-20,2013-11-30,0,FALSE,0,0,"",0,0,"",0.2,0,0,ltsa_current_trends,concentrated,ARA,testing 20% xm relax,2020-04-29 10:50:21 -0500,none,0
+156,Scn_701,2013-11-20,2013-11-30,0,FALSE,0,0,"",0,0,"",0.2,0,0,ltsa_current_trends,concentrated,ARA,(adding chg report),2020-04-30 11:28:39 -0500,chg,0
+150,Scn_702,2013-11-20,2013-11-30,1,FALSE,0,0,"",0,0,"",0.2,0,0,ltsa_current_trends,concentrated,ARA,testing 20% xm relax,2020-04-29 10:50:36 -0500,none,0
+151,Scn_704,2013-11-20,2013-11-30,0.75,FALSE,0,0,"",0,0,"",0.2,0,0,ltsa_current_trends,concentrated,ARA,testing 20% xm relax,2020-04-29 10:50:49 -0500,none,0
+152,Scn_705,2013-11-20,2013-11-30,1.25,FALSE,0,0,"",0,0,"",0.2,0,0,ltsa_current_trends,concentrated,ARA,testing 20% xm relax,2020-04-29 10:51:03 -0500,none,0
+153,Scn_709,2013-11-20,2013-11-30,1,FALSE,0,0,"",0,0,"",0.2,0,0,ltsa_current_trends,dispersed,ARA,testing 20% xm relax,2020-04-29 10:51:17 -0500,none,0
+154,Scn_711,2013-11-20,2013-11-30,0.75,FALSE,0,0,"",0,0,"",0.2,0,0,ltsa_current_trends,dispersed,ARA,testing 20% xm relax,2020-04-29 10:51:31 -0500,none,0
+155,Scn_712,2013-11-20,2013-11-30,1.25,FALSE,0,0,"",0,0,"",0.2,0,0,ltsa_current_trends,dispersed,ARA,testing 20% xm relax,2020-04-29 10:51:45 -0500,none,0
+142,Scn_801,2013-11-20,2013-11-30,0,FALSE,0,0,"",0,0,"",0.1,0,0,ltsa_current_trends,concentrated,ARA,testing 10% xm relax,2020-04-29 07:25:39 -0500,none,0
+143,Scn_802,2013-11-20,2013-11-30,1,FALSE,0,0,"",0,0,"",0.1,0,0,ltsa_current_trends,concentrated,ARA,testing 10% xm relax,2020-04-29 07:26:53 -0500,none,0
+144,Scn_804,2013-11-20,2013-11-30,0.75,FALSE,0,0,"",0,0,"",0.1,0,0,ltsa_current_trends,concentrated,ARA,testing 10% xm relax,2020-04-29 07:27:12 -0500,none,0
+145,Scn_805,2013-11-20,2013-11-30,1.25,FALSE,0,0,"",0,0,"",0.1,0,0,ltsa_current_trends,concentrated,ARA,testing 10% xm relax,2020-04-29 07:27:33 -0500,none,0
+146,Scn_809,2013-11-20,2013-11-30,1,FALSE,0,0,"",0,0,"",0.1,0,0,ltsa_current_trends,dispersed,ARA,testing 10% xm relax,2020-04-29 07:27:49 -0500,none,0
+147,Scn_811,2013-11-20,2013-11-30,0.75,FALSE,0,0,"",0,0,"",0.1,0,0,ltsa_current_trends,dispersed,ARA,testing 10% xm relax,2020-04-29 07:28:07 -0500,none,0
+148,Scn_812,2013-11-20,2013-11-30,1.25,FALSE,0,0,"",0,0,"",0.1,0,0,ltsa_current_trends,dispersed,ARA,testing 10% xm relax,2020-04-29 07:28:25 -0500,none,0
+140,Scn_900,2013-11-20,2013-11-21,1,FALSE,0,0,"",0,0,"",0,0,0,ltsa_current_trends,concentrated,ARA,trimming load to one bus,2020-04-15 22:46:03 -0500,none,0
+141,Scn_901,2013-11-20,2013-11-21,1,FALSE,0,0,"",0,0,"",0,0,0,ltsa_current_trends,concentrated,INJ,trimming load to one bus,2020-04-15 22:46:14 -0500,none,0

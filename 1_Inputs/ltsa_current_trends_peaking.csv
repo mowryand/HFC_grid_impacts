@@ -1,0 +1,10 @@
+area,Natural Gas,Solar,Wind,Coal,Water,Uranium,Other Fuel,Battery,Dist Solar,peaking
+WZ_COAST,na,na,na,na,na,na,na,na,na,na
+WZ_EAST,na,na,na,na,na,na,na,na,na,na
+WZ_FAR_WEST,0,9200,500,na,na,na,na,na,na,na
+WZ_NORTH,0,1600,5000,na,na,na,na,na,na,na
+WZ_NORTH_CENTRAL,na,na,na,na,na,na,na,na,na,na
+WZ_SOUTH_CENTRAL,na,na,na,na,na,na,na,na,na,na
+WZ_SOUTHERN,na,na,na,na,na,na,na,na,na,na
+WZ_WEST,0,1900,900,na,na,na,na,na,na,na
+other,2750,0,0,-3000,0,0,0,na,na,3400
