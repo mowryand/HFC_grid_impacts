@@ -1,0 +1,23 @@
+Tried aggregator 1 time.
+LP Presolve eliminated 302845 rows and 322241 columns.
+Aggregator did 181068 substitutions.
+Reduced LP has 156484 rows, 195448 columns, and 31438071 nonzeros.
+Presolve time = 16.23 sec. (12143.18 ticks)
+Initializing dual steep norms . . .
+Elapsed time = 17.36 sec. (12834.97 ticks, 1 iterations)
+
+Iteration log . . .
+Iteration:     1   Dual objective     =             0.000000
+Perturbation started.
+Iteration:   404   Dual objective     =      22286302.504250
+Iteration:  5884   Dual objective     =      22286320.288066
+Iteration: 11367   Dual objective     =      22286328.097695
+Iteration: 16570   Dual objective     =      22286331.937855
+Iteration: 18793   Dual objective     =      22286505.389686
+Iteration: 19493   Dual objective     =      22941615.688042
+Iteration: 19833   Dual objective     =      24847927.865437
+Iteration: 20095   Dual objective     =      25765514.728855
+Iteration: 20387   Dual objective     =      26200688.114464
+Iteration: 20851   Dual objective     =      26835445.723335
+Iteration: 21424   Dual objective     =      27146666.769668
+Removing perturbation.
