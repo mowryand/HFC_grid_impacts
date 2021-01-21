@@ -166,8 +166,8 @@ plotDurations2 <- function(dt.inj, top.nth = NULL, these.inj = NULL, bln.omit.ti
     geom_line(data = dt.fwhm, mapping = aes(x = he, y = lmp)) + 
     geom_linerange(data = dt.threshold, mapping = aes(y = threshold, xmin = 0, xmax = 25), color = "red", size = 1) +
     geom_linerange(data = dt.threshold, mapping = aes(y = threshold, xmin = begin, xmax = end), color = "red", size = 2) +
-    labs(x = "Hour of Day", y = "Normalized LMP", title = "Characteristic congestion event durations at HFCs") + 
-    facet_wrap(~paste0("HFC ", node_name))
+    labs(x = "Hour of Day", y = "Normalized LMP", title = "Characteristic congestion event durations at HFC stations") + 
+    facet_wrap(~paste0("Station ", node_name))
   
   return(plt.return)
 }
