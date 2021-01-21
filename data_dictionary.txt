@@ -1,0 +1,32 @@
+Supercharger network data
+	- https://supercharge.info/data
+EV Charging Profile Data
+	- EVProject Infrastructure ReportJan13Dec13_HA
+	- 2013 csv here: https://avt.inl.gov/project-type/data
+	- see pdf here: https://avt.inl.gov/sites/default/files/pdf/EVProj/EVProject%20Infrastructure%20ReportJan13Dec13.pdf
+Network topology and node/gen/branch data
+	- For our network model, we use ERCOT’s June 2018 network model that was released for its monthly Congestion Revenue Rights (CRR) auction. Details at http://www.ercot.com/mktinfo/crr. The model is available after registration as a market participant or observer.
+Henry Hub daily Gas Prices
+	- Daily natural gas prices at Henry Hub from 2017 were obtained from the US Energy Information Agency. https://www.eia.gov/dnav/ng/ng_pri_sum_dcu_nus_m.htm
+Gas Price dispersion within Texas
+	- NREL Hydra: https://maps.nrel.gov/hydra/?aL=xZMS-8%255Bv%255D%3Dt%26QvexB3%255Bv%255D%3Dt%26QvexB3%255Bd%255D%3D1&bL=clight&cE=0&lR=0&mC=37.24782120155428%2C-88.61572265625&zL=5
+	- __________
+Wind and Solar Data
+	- Wind and solar availability are based on zonal, hourly data for 2013 from the National Solar Radiation Database. https://nsrdb.nrel.gov/
+Load Data
+	- We extrapolated available load forecasts from ERCOT 2020 Long-Term Load Forecast Reports. http://www.ercot.com/gridinfo/load/forecast
+Generation Data
+	- We assemble generation dispatch characteristics, namely variable operation costs, ramp rates, and min/max power outputs, from the S&P Global SNL power plant database accessed at the end of 2019. See https://www.spglobal.com/marketintelligence/en/campaigns/snl-financial
+Road network
+	- TX DOT https://gis-txdot.opendata.arcgis.com/datasets/d4f7206d27af4358acb70cb1cc819d10_0/data?geometry=-98.712%2C31.577%2C-97.406%2C31.782&orderBy=ZOOM
+For Figure 4
+	- ERCOT historical data from the 2019 Demand and Energy Report http://www.ercot.com/news/presentations and pricing data http://www.ercot.com/mktinfo/prices.
+ERCOT Weather Zones
+	- See map in ERCOT’s media kit at http://www.ercot.com/news/mediakit/maps. 
+
+
+
+
+
+
+
