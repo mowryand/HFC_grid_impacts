@@ -129,7 +129,6 @@ ggsave(filename = "evse_inl_dist.png", path = PATH.IMAGES, plot = plt.save,
 
 # Fig 4: Base case gen/load/price comparison to ERCOT 2019 actuals -----
 chr.filename <- "validate_base.png"
-
 vec.scn <- paste0("Scn_", c("000990", "000991"))
 source(paste0(PATH.SCRIPTS, "plot_validate_base.R"))
 plt.return <- gridExtra::arrangeGrob(
@@ -183,8 +182,7 @@ pltLeg <- get_legend({plt1 + theme(legend.position = "bottom")})
 plt <- gridExtra::arrangeGrob(
   {plt1 + theme_bw(base_size = GGPLOT_SIZE) +
       scale_y_log10(name = "|Δ(HFC LMP)| ($/MWh)", limits = c(0.0005, 18677.22), labels = function(x) format(x, scientific = F, drop0trailing = T)) +
-      scale_x_continuous(name = "Individual HFCs") + 
-      theme(axis.ticks.x = element_blank()) +
+      scale_x_continuous(name = "Individual HFCs", breaks = seq_along(dt.lmps[, unique(inj)])) + 
       theme(axis.text.x = element_text(color = "white", angle = 90, vjust = .5)) +
       labs(title = "Local Effects Distributions by HFCs") + guides(color = F, fill = F)}, 
   {plt2 + theme_bw(base_size = GGPLOT_SIZE) +
@@ -213,6 +211,7 @@ plts2 <- plotStandardTopologies(base.scenario = "Scn_000980", circle.nodes = vec
 tmap::tmap_save(tm = plts2[["evse_col"]], filename = paste0(PATH.IMAGES, chr.filename),
                 width = 4, height = 4, units = "in")
 
+
 # Fig 9: Network profile 2 -----
 chr.filename <- paste0("9_profile_2.png")
 scenario <- c("Scn_000981") 
@@ -229,6 +228,21 @@ ggsave(filename = chr.filename, path = PATH.IMAGES, plot = pltss[[1]],
        device = "png", width = 4*SCALESSS, height = 4*SCALESSS, units = "in")
 
 
+# Fig A3, demand flexibility -----
+source(paste0(PATH.SCRIPTS, "plot_results_yearstitch.R"))
+chr.filename <- "demand_flexibility.png"
+scn.list.flex <- list(
+  dr_0 = paste0("Scn_", c("000980", "000981")), # 0% Flexibility
+  dr_05 = paste0("Scn_", c("000942", "000943")), # 5% Flexibility
+  dr_10 = paste0("Scn_", c("000944", "000945")), # 10% Flexibility
+  dr_15 = paste0("Scn_", c("000946", "000947")), # 15% Flexibility
+  dr_20 = paste0("Scn_", c("000948", "000949")) # 20% Flexibility
+)
+plt1 <- plotFlexibilityResults(scn.list = scn.list.flex)
+ggsave(filename = chr.filename, path = PATH.IMAGES, plot = plt1, 
+       device = "png", width = 6, height = 3, units = "in")
+
+
 # Fig A4, durations -----
 source(paste0(PATH.SCRIPTS, "plot_charger_heatmaps_and_congestion_durations.R"))
 chr.filename <- paste0("congestion_durations.png")
@@ -238,3 +252,11 @@ plt <- plotDurations2(dt.inj, these.inj = vec.inj)
 plt <- plt + theme_bw(base_size = GGPLOT_SIZE)
 ggsave(filename = chr.filename, path = PATH.IMAGES, plot = plt, 
        device = "png", width = 8.5, height = 3, units = "in")
+
+
+# Fig A5, impact rankings -----
+source(paste0(PATH.SCRIPTS, "plot_results_yearstitch.R"))
+chr.filename <- "impact_rankings.png"
+plt1 <- plotInjectorRankings(scn.list = scn.to.load[2:6], vec.inj)
+ggsave(filename = chr.filename, path = PATH.IMAGES, plot = plt1, 
+       device = "png", width = 6, height = 3, units = "in")
