@@ -7,11 +7,13 @@ library(viridis)
 
 factorizeCapMod <- function(cap_mod) {
   labs <- ifelse(cap_mod == .75, "75% Pen.", 
-                 ifelse(cap_mod == 1.00, "LTSA EV Penetration", 
+                 # ifelse(cap_mod == 1.00, "LTSA EV Penetration",
+                        ifelse(cap_mod == 1.00, "100% Penetration", 
                         ifelse(cap_mod == 1.25, "125% Pen.", 
                                ifelse(cap_mod == .5, "50% Pen.", 
                                       ifelse(cap_mod == 1.5, "150% Pen.", NA)))))
-  labs <- factor(labs, levels = c("50% Pen.", "75% Pen.", "LTSA EV Penetration", "125% Pen.", "150% Pen."))
+  # labs <- factor(labs, levels = c("50% Pen.", "75% Pen.", "LTSA EV Penetration", "125% Pen.", "150% Pen."))
+  labs <- factor(labs, levels = c("50% Pen.", "75% Pen.", "100% Penetration", "125% Pen.", "150% Pen."))
   return(labs)
 }
 
@@ -244,18 +246,20 @@ plotBatteryMitigation <- function(scn.list, metric = c("cost", "emissions")[1]) 
                         labels = c("Local Effects - Economic", "Local Effects - Penalty",
                                    "Zonal Effects - Economic", "Zonal Effects - Penalty")) +
       scale_x_discrete(name = "Storage Nameplate as % of HFC Nameplate", 
-                       label = function(x) paste0(round(as.numeric(x)*100,1), "%")) +
+                       # label = function(x) paste0(round(as.numeric(x)*100,1), "%")) +
+                       label = function(x) paste0(round(as.numeric(x)*100,1), "")) +
       facet_wrap(~cap_name) + theme(strip.background = element_rect(fill = "white"))
   } else {
-  
-  plt2.4 <- ggplot(dt.plot2) + theme_bw(GGPLOT_SIZE) + 
-    geom_bar(mapping = aes(x = factor(prop), y = value, fill = factor(variable)), 
-             position = position_stack(), stat = "identity") +
-    geom_hline(yintercept = 0) + 
-    labs(y = "Incremental Tons CO2", title = "Energy Storage Mitigation") +
-    scale_x_discrete(name = "Storage Nameplate as % of HFC Nameplate", 
-                     label = function(x) paste0(round(as.numeric(x)*100,1), "%")) +
-    facet_wrap(~cap_name) + theme(strip.background = element_rect(fill = "white"))
+    
+    plt2.4 <- ggplot(dt.plot2) + theme_bw(GGPLOT_SIZE) + 
+      geom_bar(mapping = aes(x = factor(prop), y = value, fill = factor(variable)), 
+               position = position_stack(), stat = "identity") +
+      geom_hline(yintercept = 0) + 
+      labs(y = "Incremental Tons CO2", title = "Energy Storage Mitigation") +
+      scale_x_discrete(name = "Storage Nameplate as % of HFC Nameplate", 
+                       # label = function(x) paste0(round(as.numeric(x)*100,1), "%")) +
+                       label = function(x) paste0(round(as.numeric(x)*100,1), "")) +
+      facet_wrap(~cap_name) + theme(strip.background = element_rect(fill = "white"))
   }
   
   
@@ -312,7 +316,8 @@ plotFlexibilityMitigation <- function(scn.list) {
                       labels = c("Local Effects - Economic", "Local Effects - Penalty", 
                                  "Zonal Effects - Economic", "Zonal Effects - Penalty")) +
     scale_x_discrete(name = "Flexible Demand as % of HFC Nameplate", 
-                     label = function(x) paste0(round(as.numeric(x)*100,1), "%")) +
+                     # label = function(x) paste0(round(as.numeric(x)*100,1), "%")) +
+                     label = function(x) paste0(round(as.numeric(x)*100,1), "")) +
     facet_wrap(~cap_name) + theme(strip.background = element_rect(fill = "white"))
   
   return(plt4.4)
@@ -428,12 +433,12 @@ plotStorageCostBenefit <- function(scn.list) {
     geom_point(mapping = aes(x = mw_bat, y = -discounted/mw_bat/1e6, color = cap_name, group = cap_name),
                size = 2) +
     theme(strip.background = element_rect(fill = "white"))+
-    labs(x = "System Battery Capacity (MW)", y = "Value ($/W)", title = "Total Lifetime Value of Storage to Developer") +
+    labs(x = "System Battery Capacity (MW)", y = "Value ($/W)", title = "Present Value of Storage") +
     geom_hline(yintercept = 0) +
     geom_hline(mapping = aes(yintercept = LCOE_LOW), linetype = "dashed") +
-    geom_text(mapping = aes(x = 0, y = LCOE_LOW, label = "Cost, High"), hjust = "inward", nudge_y = +.25) +
+    geom_text(mapping = aes(x = 0, y = LCOE_LOW, label = "Cost, Low"), hjust = "inward", nudge_y = +.25) +
     geom_hline(mapping = aes(yintercept = LCOE_HIGH), linetype = "dashed") +
-    geom_text(mapping = aes(x = 0, y = LCOE_HIGH, label = "Cost, Low"), hjust = "inward", nudge_y = +.25) +
+    geom_text(mapping = aes(x = 0, y = LCOE_HIGH, label = "Cost, High"), hjust = "inward", nudge_y = +.25) +
     scale_color_brewer(NULL, type = "qual", palette = 6)
   # plt5.3
   
@@ -467,6 +472,94 @@ plotStorageCostBenefit <- function(scn.list) {
   
   return(list(plt5.1, plt5.2, plt5.3))
 
+}
+plotInjectorRankings <- function(scn.list, vec.inj) {
+  # scn.list <- scn.to.load[2:6]
+  # sequences <- scn.list[[1]]
+  
+  # Get scenario information
+  dt.run.info <- fread(paste0(PATH.INPUTS, "run_info.csv"))
+  dt.series <- merge(data.table(scn = unique(unlist(lapply(scn.list, function(x) unlist(x))))), 
+                     dt.run.info[, list(id, scn, cap_mod, bat, bat_mod, xm_rlx, ltsa, fev, dr_amnt)], 
+                     by = "scn")[, .SD[id == max(id)], by = scn]
+  
+  vec.chargers <- scenarioYearStitch.getInjectorInfo(c("Scn_000980", "Scn_000981"))[[2]][grepl("chg", inj), node]
+  
+  # Get injector difference information: means of distributions of differences of absolute LMPs
+  dt.opts1 <- rbindlist(lapply(X = scn.list, FUN = function(sequences) {
+    
+    dt.base <- scenarioYearStitch.getPC_Nd(sequences[["base"]])[, list(node = as.integer(nd), int, lmp = abs(LMP))][node %in% vec.chargers]
+    dt.disp <- scenarioYearStitch.getPC_Nd(sequences[["disp_0"]])[, list(node = as.integer(nd), int, lmp = abs(LMP))][node %in% vec.chargers]
+    dt.conc <- scenarioYearStitch.getPC_Nd(sequences[["conc_0"]])[, list(node = as.integer(nd), int, lmp = abs(LMP))][node %in% vec.chargers]
+    
+    dt.transfer <- merge(dt.base, dt.disp, by = c("int", "node"), suffixes = c("_base", "_disp"))[
+      , list(lmp_base, lmp_disp, lmp_transfer = lmp_disp - lmp_base, int, node,
+             scn_base = sequences[["base"]][1], scn_disp = sequences[["disp_0"]][1], scn_conc = sequences[["conc_0"]][1])]
+    dt.local <- merge(dt.disp, dt.conc, by = c("int", "node"), suffixes = c("_disp", "_conc"))[
+      , list(lmp_conc, lmp_local = lmp_conc - lmp_disp, int, node)]
+    
+    dt.return <- merge(dt.transfer, dt.local, by = c("int", "node"))
+    
+    dt.return <- dt.return[, list(lmp_transfer = mean(abs(lmp_transfer)), lmp_local = mean(abs(lmp_local)), lmp_total = mean(abs(lmp_transfer + lmp_local))), by = list(node, scn_conc)]
+    
+    return(dt.return)
+  }))
+  
+  dt.opts1
+  
+  # Attach scenario information
+  dt.plot1 <- merge(dt.opts1, dt.series, by.x = "scn_conc", by.y = "scn")
+  dt.plot1[order(lmp_local, decreasing = F), ranking := 1:.N, by = cap_mod]
+  dt.plot1[, IDed := ifelse(node %in% as.integer(gsub("[A-z]", "", vec.inj)), "Top 5 + 1", "Other")]
+  
+  plt1 <- ggplot(dt.plot1) + theme_bw(GGPLOT_SIZE) + 
+    geom_line(mapping = aes(x = cap_mod, y = ranking, group = node, color = IDed)) +
+    theme(strip.background = element_rect(fill = "white"))+
+    labs(x = "EV Penetration Relative to 2018 LTSA", y = "HFC Station Impact Ranking", title = "Most Impactful HFC Stations By Scenario") +
+    scale_color_brewer("Category", type = "qual", palette = 6)
+  
+  return(plt1)
+}
+plotFlexibilityResults <- function(scn.list) {
+  # scn.list <- scn.to.load[2:6]
+  # sequences <- scn.list[[1]]
+  # scn.list.flex <- list(
+  #   dr_0 = paste0("Scn_", c("000980", "000981")), # 0% battery 
+  #   dr_05 = paste0("Scn_", c("000942", "000943")), # 5% Demand Response
+  #   dr_10 = paste0("Scn_", c("000944", "000945")), # 10% Demand Response
+  #   dr_15 = paste0("Scn_", c("000946", "000947")), # 15% Demand Response
+  #   dr_20 = paste0("Scn_", c("000948", "000949")) # 20% Demand Response
+  # )
+  
+  # Get scenario information
+  dt.run.info <- fread(paste0(PATH.INPUTS, "run_info.csv"))
+  dt.series <- merge(data.table(scn = unique(unlist(lapply(scn.list, function(x) unlist(x))))), 
+                     dt.run.info[, list(id, scn, cap_mod, bat, bat_mod, xm_rlx, ltsa, fev, dr_amnt)], 
+                     by = "scn")[, .SD[id == max(id)], by = scn]
+  
+  vec.chargers <- scenarioYearStitch.getInjectorInfo(c("Scn_000980", "Scn_000981"))[[2]][grepl("chg", inj), node]
+  
+  # Get injector difference information: means of distributions of differences of absolute LMPs
+  dt.opts1 <- rbindlist(lapply(X = scn.list, FUN = function(sequences) {
+    
+    dt.conc <- scenarioYearStitch.getInjectorInfo(sequences)[[1]][grepl("chg", inj), list(inj, int, stop, p)]
+    
+    return(cbind(scn_conc = sequences[1], dt.conc))
+  }))
+  
+  # Attach scenario information
+  dt.plot1 <- merge(dt.opts1, dt.series, by.x = "scn_conc", by.y = "scn")
+  dt.plot1 <- dt.plot1[, list(agg_power = sum(-p)), by = list(dr_amnt, hr = hour(stop))]
+  dt.plot1 <- merge(dt.plot1[dr_amnt == 0, list(hr, base_power = agg_power)], dt.plot1, by = c("hr"))
+  dt.plot1 <- dt.plot1[, list(hr, dr_amnt, delta_power = agg_power - base_power)]
+  
+  plt1 <- ggplot(dt.plot1) + theme_bw(GGPLOT_SIZE) + 
+    geom_raster(mapping = aes(x = dr_amnt, y = hr, fill = delta_power/1e3)) +
+    theme(strip.background = element_rect(fill = "white"))+
+    labs(x = "Demand Flexibility Amount (Relative to HFC Station Maximum Demand)", y = "Hour of Day", title = "Charging schedule changes by degree of flexibility") +
+    scale_fill_viridis("Yearly Energy\nChange (GWh)")
+  
+  return(plt1)
 }
 
 if(F) {
