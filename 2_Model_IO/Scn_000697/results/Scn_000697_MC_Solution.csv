@@ -1,0 +1,3 @@
+//slv,cyc,hrzn,iter,FirstInterval,LastInterval,#Constraints,#Var,#IntVar,#NonZeros,GenTime,SolveTime,ElapsedTime,#Iterations,#Nodes,Memory,Status,Objective,AllCost,AllNoncost,AllPenalty
+1,DA,hrzn_1,1,1,36,640398,698758,0,82665256,68.046,40.641,115.250,21598,0,8938.406,Optimal,27146776.117,27146776.117,0.000,0.000
+//EOF
