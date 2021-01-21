@@ -1,0 +1,5 @@
+//Scenario,FuelType,Cost,Enforce,ScaleFactor,Schedule,Sequence
+ScnDA,coal,0,,1,fuel_coal,
+ScnDA,gas,0,,1,fuel_gas,
+ScnDA,bio,0,,1,fuel_bio,
+ScnDA,u,0,,1,fuel_u,

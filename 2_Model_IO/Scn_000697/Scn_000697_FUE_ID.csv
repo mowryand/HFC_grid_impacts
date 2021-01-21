@@ -1,0 +1,5 @@
+//FuelType,Name,Quantity,Heat,Cost
+coal,coal,MMBtu,1,
+gas,gas,MMBtu,1,
+bio,bio,MMBtu,1,
+u,u,MMBtu,1,

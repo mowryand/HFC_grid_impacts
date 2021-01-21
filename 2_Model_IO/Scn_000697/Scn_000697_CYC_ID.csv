@@ -1,0 +1,2 @@
+//Cycle,Name,DeltaTime,LeadTime,DecisionTime,OrderTime,MipGap,MaxSolveTime,MaxIterations
+DA,DayAhead,24,0,,,,180,

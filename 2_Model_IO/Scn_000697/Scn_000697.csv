@@ -1,0 +1,10 @@
+//,
+DateFormat,%c%y.%m.%d %H:%M
+ShowLegend,0
+ShowPlots,0
+PenaltyForLoadShed,15000
+PenaltyForOverGeneration,50000
+PenaltyForMwViolation,9251
+VectorReports,1
+ImmediateRun,1
+ImmediateReport,1
