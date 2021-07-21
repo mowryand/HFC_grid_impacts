@@ -260,3 +260,10 @@ chr.filename <- "impact_rankings.png"
 plt1 <- plotInjectorRankings(scn.list = scn.to.load[2:6], vec.inj)
 ggsave(filename = chr.filename, path = PATH.IMAGES, plot = plt1, 
        device = "png", width = 6, height = 3, units = "in")
+
+# Fig A6, feeder line distribution -----
+source(paste0(PATH.SCRIPTS, "process_get_charger_network.R"))
+chr.filename <- "feeder_length_dist.png"
+plt <- plotFeederLineDist()[[1]]
+ggsave(filename = chr.filename, path = PATH.IMAGES, plot = plt, 
+       device = "png", width = 8, height = 3, units = "in")
